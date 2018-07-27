@@ -76,3 +76,6 @@ gem 'spree_gateway', '~> 3.3'
 gem 'spree_reffiliate', :github=>"vinsol-spree-contrib/spree_reffiliate"
 gem 'vinsol_spree_themes', github: 'vinsol-spree-contrib/spree_themes', branch: 'master'
 gem 'sprockets-helpers', '~> 1.2.1'
+gem 'heroku-client'
+gem 'heroku'
+gem 'rails_12factor'
