@@ -199,7 +199,6 @@ GEM
     msgpack (1.2.4)
     multi_json (1.13.1)
     multi_xml (0.6.0)
-    mysql2 (0.5.2)
     nio4r (2.3.1)
     nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
@@ -212,6 +211,7 @@ GEM
       terrapin (~> 0.6.0)
     paranoia (2.4.1)
       activerecord (>= 4.0, < 5.3)
+    pg (1.0.0)
     polyamorous (1.3.3)
       activerecord (>= 3.0)
     polyglot (0.3.5)
@@ -247,11 +247,6 @@ GEM
       nokogiri (>= 1.6)
     rails-html-sanitizer (1.0.4)
       loofah (~> 2.2, >= 2.2.2)
-    rails_12factor (0.0.3)
-      rails_serve_static_assets
-      rails_stdout_logging
-    rails_serve_static_assets (0.0.5)
-    rails_stdout_logging (0.0.5)
     railties (5.2.0)
       actionpack (= 5.2.0)
       activesupport (= 5.2.0)
@@ -417,10 +412,9 @@ DEPENDENCIES
   heroku-client
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
-  mysql2 (>= 0.4.4, < 0.6.0)
+  pg
   puma (~> 3.11)
   rails (~> 5.2.0)
-  rails_12factor
   sass-rails (~> 5.0)
   selenium-webdriver
   spree (~> 3.6.1)
