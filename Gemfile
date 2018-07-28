@@ -6,8 +6,8 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-# gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'pg'
+gem 'mysql2', '>= 0.4.4', '< 0.6.0'
+# gem 'pg'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
@@ -78,4 +78,11 @@ gem 'vinsol_spree_themes', github: 'vinsol-spree-contrib/spree_themes', branch: 
 gem 'sprockets-helpers', '~> 1.2.1'
 gem 'heroku-client'
 gem 'heroku'
-gem 'rails_12factor'
+# gem 'rails_12factor'
+
+# gem 'yarn'
+# group :production do
+#   gem 'rails_log_stdout',           github: 'heroku/rails_log_stdout'
+#   gem 'rails3_serve_static_assets', github: 'heroku/rails3_serve_static_assets'
+#
+# end
