@@ -1,0 +1,1 @@
+$(document).on("ready",function(){$(".homepage-slider").slick({infinite:!0,autoplay:!0,speed:1e3,slidesToShow:1,centerMode:!0,variableWidth:!0}),$(".banner-container").masonry({itemSelector:".item"})});
