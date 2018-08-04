@@ -9,7 +9,9 @@ gem 'rails', '~> 5.2.0'
 # gem 'mysql2', '>= 0.4.4', '< 0.6.0'
 gem 'pg'
 
-gem 'cloudinary'
+# gem 'cloudinary'
+gem 'cloudinary', require: false
+gem 'activestorage-cloudinary-service'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
