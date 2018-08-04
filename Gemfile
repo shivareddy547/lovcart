@@ -6,8 +6,8 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-# gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'pg'
+gem 'mysql2', '>= 0.4.4', '< 0.6.0'
+# gem 'pg'
 
 # gem 'cloudinary'
 gem 'cloudinary', require: false
@@ -94,3 +94,5 @@ gem 'heroku'
 # gem 'spree_cloudinary' , github: "chautoni/spree_cloudinary"
 
 gem 'spree_analytics_trackers', github: 'spree-contrib/spree_analytics_trackers'
+
+gem 'mini_magick', '~> 4.8'
