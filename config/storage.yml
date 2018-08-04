@@ -5,7 +5,7 @@ test:
 local:
   service: Disk
   root: <%= Rails.root.join("storage") %>
-production:
+cloudinary:
   cloud_name: lovecart
   api_key: '429837329638351'
   api_secret: MKx_1N97Lctgwnc0MwxFs_597BE
