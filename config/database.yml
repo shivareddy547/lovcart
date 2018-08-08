@@ -16,7 +16,8 @@ default: &default
   username: root
   password: root
   socket: /var/run/mysqld/mysqld.sock
-
+#lovcart_development2
+#lovcart_development31`
 development:
   <<: *default
   database: lovcart_development2

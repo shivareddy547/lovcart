@@ -98,3 +98,9 @@ gem 'heroku'
 gem 'spree_analytics_trackers', github: 'spree-contrib/spree_analytics_trackers'
 
 gem 'mini_magick', '~> 4.8'
+
+gem 'spree_social', github: 'spree-contrib/spree_social'
+
+# gem 'spree_social_media_marketing', github: 'vinsol-spree-contrib/spree-social-media-marketing', branch: '3-1-stable'
+gem 'spree_social_products',:path=>"spree_social_products"
+gem 'spree_favorite_products', github: 'vinsol-spree-contrib/spree_favorite_products'

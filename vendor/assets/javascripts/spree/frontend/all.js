@@ -14,3 +14,8 @@
 //= require spree/frontend/spree_reffiliate
 //= require spree/frontend/spree_themes
 //= require spree/frontend/spree_analytics_trackers
+//= require spree/frontend/spree_social_products
+
+//= require store/spree_favorite_products
+
+//= require spree/frontend/spree_favorite_products

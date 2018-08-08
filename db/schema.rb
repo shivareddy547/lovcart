@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_08_03_162553) do
+ActiveRecord::Schema.define(version: 2018_08_08_132637) do
 
   create_table "active_storage_attachments", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "name", null: false
@@ -138,6 +138,16 @@ ActiveRecord::Schema.define(version: 2018_08_03_162553) do
     t.index ["viewable_type", "type"], name: "index_assets_on_viewable_type_and_type"
   end
 
+  create_table "spree_authentication_methods", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.string "environment"
+    t.string "provider"
+    t.string "api_key"
+    t.string "api_secret"
+    t.boolean "active"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "spree_calculators", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "type"
     t.string "calculable_type"
@@ -225,6 +235,16 @@ ActiveRecord::Schema.define(version: 2018_08_03_162553) do
     t.datetime "updated_at", null: false
     t.index ["number"], name: "index_spree_customer_returns_on_number", unique: true
     t.index ["stock_location_id"], name: "index_spree_customer_returns_on_stock_location_id"
+  end
+
+  create_table "spree_favorites", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.integer "user_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.string "favoritable_type"
+    t.bigint "favoritable_id"
+    t.index ["favoritable_type", "favoritable_id"], name: "index_spree_favorites_on_favoritable_type_and_favoritable_id"
+    t.index ["user_id"], name: "index_spree_favorites_on_user_id"
   end
 
   create_table "spree_gateways", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
@@ -496,9 +516,11 @@ ActiveRecord::Schema.define(version: 2018_08_03_162553) do
     t.datetime "updated_at", null: false
     t.boolean "promotionable", default: true
     t.string "meta_title"
+    t.integer "favorite_users_count", default: 0
     t.index ["available_on"], name: "index_spree_products_on_available_on"
     t.index ["deleted_at"], name: "index_spree_products_on_deleted_at"
     t.index ["discontinue_on"], name: "index_spree_products_on_discontinue_on"
+    t.index ["favorite_users_count"], name: "index_spree_products_on_favorite_users_count"
     t.index ["name"], name: "index_spree_products_on_name"
     t.index ["shipping_category_id"], name: "index_spree_products_on_shipping_category_id"
     t.index ["slug"], name: "index_spree_products_on_slug", unique: true
@@ -1098,6 +1120,16 @@ ActiveRecord::Schema.define(version: 2018_08_03_162553) do
     t.index ["active"], name: "index_spree_trackers_on_active"
   end
 
+  create_table "spree_user_authentications", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.integer "user_id"
+    t.string "provider"
+    t.string "uid"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["uid", "provider"], name: "index_spree_user_authentications_on_uid_and_provider", unique: true
+    t.index ["user_id"], name: "index_spree_user_authentications_on_user_id"
+  end
+
   create_table "spree_users", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "encrypted_password", limit: 128
     t.string "password_salt", limit: 128
@@ -1154,8 +1186,10 @@ ActiveRecord::Schema.define(version: 2018_08_03_162553) do
     t.integer "tax_category_id"
     t.datetime "updated_at", null: false
     t.datetime "created_at", null: false
+    t.integer "favorite_users_count", default: 0
     t.index ["deleted_at"], name: "index_spree_variants_on_deleted_at"
     t.index ["discontinue_on"], name: "index_spree_variants_on_discontinue_on"
+    t.index ["favorite_users_count"], name: "index_spree_variants_on_favorite_users_count"
     t.index ["is_master"], name: "index_spree_variants_on_is_master"
     t.index ["position"], name: "index_spree_variants_on_position"
     t.index ["product_id"], name: "index_spree_variants_on_product_id"
@@ -1186,4 +1220,5 @@ ActiveRecord::Schema.define(version: 2018_08_03_162553) do
     t.index ["kind"], name: "index_spree_zones_on_kind"
   end
 
+  add_foreign_key "spree_user_authentications", "spree_users", column: "user_id"
 end
