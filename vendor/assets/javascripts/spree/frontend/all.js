@@ -19,3 +19,4 @@
 //= require store/spree_favorite_products
 
 //= require spree/frontend/spree_favorite_products
+//= require spree/frontend/spree_wishlist

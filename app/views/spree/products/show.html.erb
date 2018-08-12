@@ -1,5 +1,92 @@
 <% @body_id = 'product-details' %>
 
+
+<!--<button onclick="ogShare()">Click me</button>-->
+
+<!--<script type="text/javascript">-->
+
+<!--    // Initialize the Facebook JS SDK.-->
+<!--    window.fbAsyncInit = function() {-->
+<!--        FB.init({-->
+<!--            appId            : '384494774893908',-->
+<!--            autoLogAppEvents : true,-->
+<!--            xfbml            : true,-->
+<!--            version          : 'v3.1'-->
+<!--        });-->
+
+<!--        // Put additional init code here-->
+<!--    };-->
+
+<!--    // Load the Facebook JS SDK Asynchronously-->
+<!--    (function(d, s, id){-->
+<!--        var js, fjs = d.getElementsByTagName(s)[0];-->
+<!--        if (d.getElementById(id)) {return;}-->
+<!--        js = d.createElement(s); js.id = id;-->
+<!--        js.src = "https://connect.facebook.net/en_US/all.js";-->
+<!--        fjs.parentNode.insertBefore(js, fjs);-->
+<!--    }(document, 'script', 'facebook-jssdk'));-->
+
+<!--    // Custom function to call when user initiates a share-->
+<!--    function ogShare() {-->
+<!--        FB.ui({-->
+<!--            method: 'share_open_graph',-->
+<!--            action_type: 'og.likes',-->
+<!--            action_properties: JSON.stringify({-->
+<!--                object:'https://developers.facebook.com/docs/opengraph/getting-started',-->
+<!--            })-->
+<!--        }, function(response){-->
+<!--            // Debug response (optional)-->
+<!--            console.log(response);-->
+<!--        });-->
+<!--    }-->
+
+<!--</script>-->
+
+
+
+
+<html>
+<body>
+
+<p><a href="#" onClick="logInWithFacebook()">Log In with the JavaScript SDK</a></p>
+
+<script>
+    logInWithFacebook = function() {
+        FB.login(function(response) {
+            if (response.authResponse) {
+                alert('You are logged in &amp; cookie set!');
+                var uid = response.authResponse.userID;
+                var accessToken = response.authResponse.accessToken;
+                alert(accessToken)
+                // Now you can redirect the user or do an AJAX request to
+                // a PHP script that grabs the signed request from the cookie.
+            } else {
+                alert('User cancelled login or did not fully authorize.');
+            }
+        });
+        return false;
+    };
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId: 'your-app-id',
+            cookie: true, // This is important, it's not enabled by default
+            version: 'v2.2'
+        });
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/all.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+</body>
+</html>
+
+
+
 <% cache cache_key_for_product do %>
   <div data-hook="product_show" class="row" itemscope itemtype="https://schema.org/Product">
     <div class="col-md-4 col-sm-5" data-hook="product_left_part">
@@ -46,3 +133,5 @@
     </div>
   </div>
 <% end %>
+
+

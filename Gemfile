@@ -6,8 +6,8 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-# gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'pg'
+gem 'mysql2', '>= 0.4.4', '< 0.6.0'
+# gem 'pg'
 
 
 
@@ -104,3 +104,21 @@ gem 'spree_social', github: 'spree-contrib/spree_social'
 # gem 'spree_social_media_marketing', github: 'vinsol-spree-contrib/spree-social-media-marketing', branch: '3-1-stable'
 gem 'spree_social_products',:path=>"spree_social_products"
 gem 'spree_favorite_products', github: 'vinsol-spree-contrib/spree_favorite_products'
+gem 'spree_amazon_affiliate', :path => 'spree_amazon_affiliate'
+# gem 'spree_amazon_affiliate'
+# gem 'spree_wishlist', github: 'spree-contrib/spree_wishlist', branch: 'master'
+#
+gem 'spree_wishlist',:path=>'spree_wishlist'
+# gem 'spree_email_to_friend', github: 'spree-contrib/spree_email_to_friend', branch: '3-1-stable'
+#
+# gem 'protected_attributes', :github => 'rails/protected_attributes'
+#
+# gem 'protected_attributes'
+#
+gem 'vacuum',:github=>'hakanensari/vacuum'
+
+# gem 'kaminari'
+# gem 'will_paginate'
+gem 'pry'
+
+gem 'spree_opengraph',:github=>'AktionLab/spree-opengraph'
