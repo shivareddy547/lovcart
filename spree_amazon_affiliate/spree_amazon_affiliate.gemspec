@@ -1,4 +1,6 @@
 # encoding: UTF-8
+lib = File.expand_path('../lib/', __FILE__)
+$LOAD_PATH.unshift lib unless $LOAD_PATH.include?(lib)
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_amazon_affiliate'
@@ -22,7 +24,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'capybara',     '~> 1.1'
   s.add_development_dependency 'factory_girl', '~> 2.6'
-  s.add_development_dependency 'ffaker',       '~> 1.12'
+  s.add_development_dependency 'ffaker'
   s.add_development_dependency 'rspec-rails',  '~> 2.9'
   s.add_development_dependency 'simplecov',    '~> 0.6.2'
   s.add_development_dependency 'sqlite3',      '~> 1.3.6'
