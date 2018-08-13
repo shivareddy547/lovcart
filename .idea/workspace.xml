@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/config/initializers/require.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec" afterDir="false" />
-    </list>
+    <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -24,6 +18,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1534131654591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.coverage" NAME="Development: lovcart Coverage Results" MODIFIED="1533660806423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
+    <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.rcov" NAME="Production: lovcart Coverage Results" MODIFIED="1534133764823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.coverage" NAME="Production: lovcart Coverage Results" MODIFIED="1533647490652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -47,19 +42,20 @@
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.90" value="1" />
           <entry key="project.open.time.91" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="10" />
+          <entry key="Gemfile" value="11" />
           <entry key="css" value="3" />
           <entry key="erb" value="18" />
           <entry key="gemspec" value="4" />
           <entry key="js" value="9" />
           <entry key="rb" value="45" />
-          <entry key="yml" value="8" />
+          <entry key="yml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -67,8 +63,8 @@
           <entry key="CSS" value="3" />
           <entry key="JavaScript" value="9" />
           <entry key="RHTML" value="18" />
-          <entry key="Ruby" value="59" />
-          <entry key="YAML" value="8" />
+          <entry key="Ruby" value="60" />
+          <entry key="YAML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -77,7 +73,7 @@
           <entry key="erb" value="102" />
           <entry key="gemspec" value="3" />
           <entry key="js" value="30" />
-          <entry key="rb" value="2508" />
+          <entry key="rb" value="2513" />
           <entry key="yml" value="5" />
         </counts>
       </usages-collector>
@@ -85,7 +81,7 @@
         <counts>
           <entry key="JavaScript" value="30" />
           <entry key="RHTML" value="102" />
-          <entry key="Ruby" value="2606" />
+          <entry key="Ruby" value="2611" />
           <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
@@ -96,15 +92,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/application.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
           <provider selected="true" editor-type-id="text-editor" />
@@ -135,23 +122,36 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="105">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/Gemfile">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="19" />
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -159,8 +159,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+            <state relative-caret-position="102">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -222,8 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/storage.yml" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/spree_social_products/spree_social_products.gemspec" />
         <option value="$PROJECT_DIR$/spree_social_products/Gemfile" />
@@ -253,7 +251,6 @@
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/admin/spree_amazon_affiliate.js" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/admin/spree_amazon_affiliate.css" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/taxon.rb" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/config/amazon_affiliate.yml" />
@@ -271,8 +268,11 @@
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/shared/_facebook_sdk.html.erb" />
         <option value="$PROJECT_DIR$/app/views/spree/products/show.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -359,7 +359,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Rails.Development: lovcart">
+  <component name="RunManager" selected="Rails.Production: lovcart">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -402,17 +402,17 @@
       <workItem from="1534003774671" duration="5119000" />
       <workItem from="1534050924865" duration="7433000" />
       <workItem from="1534096606751" duration="1584000" />
+      <workItem from="1534132448729" duration="1147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79590000" />
+    <option name="totallyTimeSpent" value="80737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28651237" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28651237" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -425,9 +425,9 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4924182" weight="0.57843137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4924182" visible="true" weight="0.57843137" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50039905" side_tool="true" weight="0.49673203" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49960095" visible="true" weight="0.49673203" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49960095" weight="0.49673203" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -449,13 +449,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/backend/spree_social_products.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/frontend/spree_social_products.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -567,13 +560,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/base.rb">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_taxons/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
@@ -721,10 +707,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/products/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
@@ -738,41 +741,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/products/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-185">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="102">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1064" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-494" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+        <state relative-caret-position="105">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        <state relative-caret-position="71">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="75">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
