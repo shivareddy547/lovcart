@@ -10,6 +10,9 @@ en:
   amazon_imports: Amazon Imports
   amazon_products: Amazon Products
   amazon_taxons: Amazon Taxons
+  flipkart_products: Flipkart Products
+  flipkart_taxons: Flipkart Taxons
+  flipkart_price: Flpkart Price
   buy_on_amazon: Buy on Amazon
   child_taxons: Child Taxons
   download_template: Download Template

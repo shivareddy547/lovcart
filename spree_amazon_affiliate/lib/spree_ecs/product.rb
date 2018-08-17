@@ -28,7 +28,30 @@ module SpreeEcs
             :total_entries => @response.total_results
           }
         }
+
+
       end
+
+      def search_save_flipkart(query,options,products)
+    @query=query
+    @options=options
+    @products=products
+
+        @query = SpreeAmazonAffiliate::Engine.amazon_options[:query][:q].to_s.gsub("%{q}", @query)
+        p "=====================fdgfdgfdgfdgfdgdgdfg=dfgdfgdfgfdgfd"
+        p products
+        cache("spree_ecs:product:search:#{@query}:#{@options.stringify_keys.sort}") {
+          log "spree_ecs:product:search: #{@query}; @options #{@options.inspect}"
+          @response = Amazon::Ecs.item_search(@query, @options)
+          {
+              :current_page  => 1,
+              :num_pages     => 27475,
+              :products      => products,
+              :total_entries => 274743
+          }
+        }
+      end
+
 
       # Find product by asin
       #
@@ -51,6 +74,7 @@ module SpreeEcs
       private
 
       def mapped(item)
+        p "===================maped=============="
         log "MAPPED: #{item}"
         return {} if item.nil?
         {
@@ -59,7 +83,7 @@ module SpreeEcs
           :images             => parse_images(item),
           :name               => item.get('ItemAttributes/Title'),
           :price              => (item.get('ItemAttributes/ListPrice/Amount').to_s[0..-3].to_i rescue 0),
-          :low_price          => (item.get('OfferSummary/LowestNewPrice/FormattedPrice').gsub(/\$|,|\ /,'').to_f rescue 0),
+          :low_price          => (item.get('OfferSummary/LowestNewPrice/Amount').to_s[0..-3].to_i rescue 0),
           :currency           => item.get('ItemAttributes/ListPrice/CurrencyCode'),
           :taxons             => parse_taxons(item),
           :url                => item.get('DetailPageURL'),

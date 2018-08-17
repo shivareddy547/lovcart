@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="" />
+    <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/search_products.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_flipkart_product_search.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lovcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lovcart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spree_amazon_affiliate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spree_amazon_affiliate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spree_wishlist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spree_wishlist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/config/locales/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/config/locales/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -16,9 +36,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1534131654591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
+    <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1534516914560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.coverage" NAME="Development: lovcart Coverage Results" MODIFIED="1533660806423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
-    <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.rcov" NAME="Production: lovcart Coverage Results" MODIFIED="1534133764823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
+    <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.rcov" NAME="Production: lovcart Coverage Results" MODIFIED="1534172168625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.coverage" NAME="Production: lovcart Coverage Results" MODIFIED="1533647490652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -35,54 +55,57 @@
     <session id="-915779824">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.105" value="1" />
-          <entry key="project.open.time.108" value="1" />
+          <entry key="project.open.time.108" value="3" />
           <entry key="project.open.time.428" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.90" value="1" />
           <entry key="project.open.time.91" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.open.time.97" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="11" />
+          <entry key="Gemfile" value="23" />
           <entry key="css" value="3" />
-          <entry key="erb" value="18" />
-          <entry key="gemspec" value="4" />
+          <entry key="erb" value="37" />
+          <entry key="gemspec" value="9" />
           <entry key="js" value="9" />
-          <entry key="rb" value="45" />
-          <entry key="yml" value="9" />
+          <entry key="rb" value="175" />
+          <entry key="yml" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
           <entry key="JavaScript" value="9" />
-          <entry key="RHTML" value="18" />
-          <entry key="Ruby" value="60" />
-          <entry key="YAML" value="9" />
+          <entry key="RHTML" value="37" />
+          <entry key="Ruby" value="207" />
+          <entry key="YAML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="95" />
-          <entry key="erb" value="102" />
-          <entry key="gemspec" value="3" />
+          <entry key="Gemfile" value="191" />
+          <entry key="erb" value="316" />
+          <entry key="gemspec" value="69" />
           <entry key="js" value="30" />
-          <entry key="rb" value="2513" />
-          <entry key="yml" value="5" />
+          <entry key="rb" value="6075" />
+          <entry key="yml" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="30" />
-          <entry key="RHTML" value="102" />
-          <entry key="Ruby" value="2611" />
-          <entry key="YAML" value="5" />
+          <entry key="RHTML" value="316" />
+          <entry key="Ruby" value="6335" />
+          <entry key="YAML" value="48" />
         </counts>
       </usages-collector>
     </session>
@@ -92,84 +115,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="79" column="50" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/spree/products/show.html.erb">
+        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_products_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="45">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="39" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/config/amazon_affiliate.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/kaminari-core-1.0.1/lib/kaminari/helpers/helper_methods.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="51" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="51" />
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -178,36 +155,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>ppppp</find>
+      <find>=========imagg</find>
+      <find>===urrrrrrrrrrrrrrrrrrrrr</find>
+      <find>====urrrrrrrrrrrrrrrrrrr</find>
+      <find>===urrrrrrrrrrrrrrrrrrr</find>
+      <find>=====urrrrr</find>
+      <find>===urrrrrrrrrrrrrrrrr</find>
+      <find>==urrrrrrrrrrrrrrrrr</find>
+      <find>====atatatattatatata==</find>
+      <find>per_page</find>
+      <find>asin</find>
+      <find>spree_ecs:product:search</find>
+      <find>===========fdgf</find>
+      <find>asi</find>
+      <find>ee_ecs:product:sear</find>
+      <find>==========ppppppppppp</find>
+      <find>=====flipkart=====self===</find>
+      <find>+++++++cachecachecache==</find>
+      <find>=product_asinproduct_a</find>
+      <find>==flipkart=====self==</find>
+      <find>=============insi</find>
+      <find>=====insi</find>
+      <find>++++++++++++++atatatattatatat</find>
+      <find>MAPPED</find>
+      <find>ListPrice</find>
+      <find>B00VFMFXRC</find>
+      <find>====amazon===self===</find>
+      <find>meta</find>
       <find>currency</find>
-      <find>amazon.com</find>
-      <find>amazon.in</find>
-      <find>_twitter</find>
-      <find>======imagess=======</find>
-      <find>+++++io======</find>
-      <find>===imgae errors====</find>
-      <find>======io ==</find>
-      <find>========file name ++</find>
-      <find>=======enenenen======</find>
-      <find>====imgae errors===</find>
-      <find>======file name ++++</find>
-      <find>====errrrrrrrrrrr===</find>
-      <find>==========url====</find>
-      <find>===errrrrrrrrrrr===</find>
-      <find>===price===</find>
-      <find>189.00</find>
-      <find>save_from_amazon</find>
-      <find>description</find>
-      <find>@price</find>
-      <find>price</find>
-      <find>===enenenen===</find>
-      <find>=========self======</find>
-      <find>aaaaaaaaaatrrrur</find>
-      <find>attr</find>
-      <find>save_to_spree</find>
-      <find>self===</find>
-      <find>products_per_page</find>
-      <find>pg</find>
-      <find>/lib</find>
+      <find>================maped====</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -222,57 +199,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/spree_social_products/spree_social_products.gemspec" />
-        <option value="$PROJECT_DIR$/spree_social_products/Gemfile" />
-        <option value="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_twitter.html.erb" />
-        <option value="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_facebook.html.erb" />
-        <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-2-3-3-bump/views/spree/orders/_line_item.html.erb" />
-        <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_taxons.html.erb" />
-        <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/orders/_line_item.html.erb" />
-        <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_social.html.erb" />
-        <option value="$PROJECT_DIR$/spree_wishlist/spree_wishlist.gemspec" />
-        <option value="$PROJECT_DIR$/spree_wishlist/app/models/spree/variant_decorator.rb" />
-        <option value="$PROJECT_DIR$/spree_wishlist/app/models/spree/user_decorator.rb" />
-        <option value="$PROJECT_DIR$/spree_wishlist/app/models/spree/wished_product.rb" />
-        <option value="$PROJECT_DIR$/spree_wishlist/app/models/spree/wishlist.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/replace_wishlist_add_to_cart_button.rb" />
-        <option value="$PROJECT_DIR$/spree_wishlist/Gemfile" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20120604005532_create_imports.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20111011000000_add_amazon_id_to_product.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20180808175338_add_amazon_id_to_product.spree_amazon_affiliate.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20180808175339_create_imports.spree_amazon_affiliate.rb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/store/all.js" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/admin/all.js" />
-        <option value="$PROJECT_DIR$/app/views/spree/shared/_header.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/spree/shared/_head.html.erb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/store/spree_amazon_affiliate.js" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/store/spree_amazon_affiliate.css" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/admin/spree_amazon_affiliate.js" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/admin/spree_amazon_affiliate.css" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/taxon.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/config/amazon_affiliate.yml" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_taxons/index.html.erb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_taxons_controller.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_products/index.html.erb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_products_controller.rb" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/kaminari-core-1.0.1/lib/kaminari/helpers/helper_methods.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product_collection.rb" />
-        <option value="$PROJECT_DIR$/config/amazon_affiliate.yml" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/controllers/spree/admin/flipkart_imports_controller.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/controllers/spree/admin/flipkart_products_controller.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/config/routes.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/views/spree/flipkart/flipkart_taxons/index.html.erb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/controllers/spree/admin/flipkart_taxons_controller.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/base.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/image.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/asset.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/import.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/product.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/product_collection.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/variant.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/variant_collection.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/lib/spree_admin_flipkart_panel/engine.rb" />
+        <option value="$PROJECT_DIR$/spree_admin_flipkart_panel/app/models/spree/flipkart/taxon.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_amazon_affiliate/engine.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_imports_controller.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/asset.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/image.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/import.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/product_collection.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/variant.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/variant_collection.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree/core/search/flipkart.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/products_by_taxons.html.erb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/taxon.rb" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/helpers/amazon_affiliate_helper.rb" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/amazon-ecs-2.2.5/lib/amazon/ecs.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb" />
-        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb" />
-        <option value="$PROJECT_DIR$/app/views/spree/shared/_facebook_sdk.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/spree/products/show.html.erb" />
+        <option value="$PROJECT_DIR$/flipkart_api/lib/flipkart_api.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/index.html.erb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/index.html.erb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_flipkart_product_search.html.erb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/config/locales/en.yml" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/flipkart_products.html.erb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_amazon_sub_menu.html.erb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_taxons_controller.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/base.rb" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec" />
-        <option value="$PROJECT_DIR$/config/environments/production.rb" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_products_controller.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_products_controller.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/search_products.html.erb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_products/index.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/environments/development.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/product.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb" />
+        <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb" />
       </list>
     </option>
   </component>
@@ -310,6 +287,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,24 +298,144 @@
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="environments" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
               <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+              <item name="flipkart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="flipkart_products" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="spree" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="flipkart_taxons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="spree_amazon_affiliate" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,7 +457,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Rails.Production: lovcart">
+  <component name="RunManager" selected="Rails.Development: lovcart">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -402,17 +500,22 @@
       <workItem from="1534003774671" duration="5119000" />
       <workItem from="1534050924865" duration="7433000" />
       <workItem from="1534096606751" duration="1584000" />
-      <workItem from="1534132448729" duration="1147000" />
+      <workItem from="1534132448729" duration="18504000" />
+      <workItem from="1534219193069" duration="6505000" />
+      <workItem from="1534259455384" duration="4408000" />
+      <workItem from="1534299129213" duration="40953000" />
+      <workItem from="1534393130912" duration="23056000" />
+      <workItem from="1534473516627" duration="5071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80737000" />
+    <option name="totallyTimeSpent" value="178087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28651237" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31125298" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -425,9 +528,9 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4924182" visible="true" weight="0.57843137" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50039905" side_tool="true" weight="0.49673203" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49960095" weight="0.49673203" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" visible="true" weight="0.49673203" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5051876" side_tool="true" weight="0.3970588" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49960095" weight="0.47549018" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -449,330 +552,331 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/frontend/spree_social_products.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionview-5.2.0/lib/action_view/helpers/asset_tag_helper.rb">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/image.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="217" column="10" selection-start-line="217" selection-start-column="10" selection-end-line="217" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spree_wishlist/app/assets/javascripts/spree/frontend/spree_wishlist.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/import.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_header.html.erb">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/variant.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/variant_collection.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/spree_core-3.6.2/app/helpers/spree/base_helper.rb">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/products_by_taxons.html.erb" />
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/amazon-ecs-2.2.5/lib/amazon/ecs.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="-1660">
+          <caret line="144" column="10" selection-start-line="144" selection-start-column="10" selection-end-line="144" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_head.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/admin/spree_amazon_affiliate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/store/spree_amazon_affiliate.css">
+    <entry file="file://$PROJECT_DIR$/flipkart_api/examples/products_by_category.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/admin/spree_amazon_affiliate.css">
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/spree_core-3.6.2/lib/spree/core/search/base.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        <state relative-caret-position="-541">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/store/spree_amazon_affiliate.js">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree/core/search/flipkart.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="12" selection-end-column="26" />
+        <state relative-caret-position="265">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.css">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_amazon_product_search.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81" />
+        <state relative-caret-position="45">
+          <caret line="3" column="48" selection-end-line="14" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/shared/_version.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/config/locales/en.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_flipkart_product_search.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_amazon_affiliate/engine.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_amazon_sub_menu.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spree_social_products/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_social_products/spree_social_products.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bundler-1.16.3/lib/bundler/dsl.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/bundler/gems/spree_themes-1af86f015f90/app/helpers/spree/base_helper_decorator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/base.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_taxons/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activerecord-5.2.0/lib/active_record/log_subscriber.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/taxon.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/spec/requests/admin/amazon_products/product_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_taxons_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_products/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product_collection.rb">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/flipkart_products.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_amazon_affiliate.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/helpers/amazon_affiliate_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spree_social_products/app/views/spree/social/_twitter.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/taxon.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/amazon_affiliate.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/config/amazon_affiliate.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_amazon_affiliate/engine.rb">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/admin/shared/sub_menu/_configuration.html.erb">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/helpers/amazon_affiliate_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
+        <state relative-caret-position="-90" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/amazon-ecs-2.2.5/lib/amazon/ecs.rb">
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/taxon.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5730">
-          <caret line="382" column="7" selection-start-line="382" selection-start-column="7" selection-end-line="382" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="83" selection-start-line="62" selection-start-column="83" selection-end-line="62" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_products_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree/core/search/amazon.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_facebook_sdk.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/products/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/kaminari-core-1.0.1/lib/kaminari/helpers/helper_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        <state relative-caret-position="-60">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+        <state relative-caret-position="165">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flipkart_api/lib/flipkart_api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_taxons_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/product_collection.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20111011000000_add_amazon_id_to_product.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20120604005532_create_imports.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product_collection.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/taxon.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/base.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/bundler/gems/spree_themes-1af86f015f90/app/controllers/spree/store_controller_decorator.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/asset.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/search_products.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/variant.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_taxons_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_products/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/product.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="190" column="31" selection-start-line="190" selection-start-column="31" selection-end-line="190" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+          <folding>
+            <element signature="e#1240#1856#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/amazon-ecs-2.5.0/lib/amazon/ecs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="165">
+          <caret line="131" column="10" selection-start-line="131" selection-start-column="10" selection-end-line="131" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_products_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/config/amazon_affiliate.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_products_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="79" column="50" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="50" />
         </state>
       </provider>
     </entry>

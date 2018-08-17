@@ -1,3 +1,4 @@
+require 'base64'
 module Spree
   module Amazon
     class Base

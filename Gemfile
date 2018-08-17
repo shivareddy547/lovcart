@@ -6,8 +6,8 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-# gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'pg'
+gem 'mysql2', '>= 0.4.4', '< 0.6.0'
+# gem 'pg'
 
 
 
@@ -122,3 +122,11 @@ gem 'vacuum',:github=>'hakanensari/vacuum'
 gem 'pry'
 
 gem 'spree_opengraph',:github=>'AktionLab/spree-opengraph'
+gem 'flipkart_api',:path=>'flipkart_api'
+# gem 'spree_admin_flipkart_panel',:path=>'spree_admin_flipkart_panel'
+#
+gem 'xml-to-json'
+gem 'json'
+gem 'crack'
+gem 'base64_token' , :github=>"kaeuferportal/base64_token"
+gem 'dalli'

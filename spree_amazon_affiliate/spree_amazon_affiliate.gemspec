@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'amazon-ecs'
   s.add_dependency 'htmlentities'
+  s.add_dependency 'json'
   s.add_dependency 'spree_core', '>= 3.1.0', '< 4.0'
 
   s.add_development_dependency 'capybara',     '~> 1.1'
@@ -29,5 +30,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'simplecov',    '~> 0.6.2'
   s.add_development_dependency 'sqlite3',      '~> 1.3.6'
   s.add_development_dependency 'protected_attributes'
+
+  # s.add_dependency 'base64'
 
 end

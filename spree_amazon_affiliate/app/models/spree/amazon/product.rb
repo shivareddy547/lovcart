@@ -68,23 +68,27 @@ module Spree
       # Save amazon product to base or find on amazon id
       #
       def save_to_spree
-        p "=================self=============="
+        p "==============amazon===self=============="
         p self
+        p self.low_price.to_f
         p "===================enneneneneen=========="
         ::Spree::Product.save_from_amazon({
                                      :attributes =>{
                                        :available_on     => 1.day.ago,
                                        :description      => coder.decode(self.description),
                                        :meta_description => strip_tags(coder.decode(self.description)).truncate(255),
+                                       :meta_title =>   coder.decode(self.name),
                                        :name             => coder.decode(self.name),
                                        :price            => self.price.to_f,
-                                       :sku              => self.id
+                                       :sku              => self.id,
+                                       :cost_price    => self.low_price.to_f
                                      },
                                      :asin          => self.id,
                                      :count_on_hand => 1,
                                      :price         => self.price.to_f,
                                      :cost_currency => self.currency,
-                                     :images        => self.images
+                                     :images        => self.images,
+                                     :cost_price    => self.low_price.to_f
                                    })
       end
 

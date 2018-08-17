@@ -4,6 +4,7 @@ PATH
     spree_amazon_affiliate (1.0.0.beta)
       amazon-ecs
       htmlentities
+      json
       spree_core (>= 3.1.0, < 4.0)
 
 GEM
@@ -105,6 +106,7 @@ GEM
     htmlentities (4.3.4)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
+    json (2.1.0)
     kaminari (1.0.1)
       activesupport (>= 4.1.0)
       kaminari-actionview (= 1.0.1)
@@ -278,6 +280,11 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     websocket (1.2.8)
+    xml-to-hash (1.0.3)
+      nokogiri (~> 1, >= 1.6)
+    xml-to-json (1.0.1)
+      json
+      xml-to-hash
     xpath (0.1.4)
       nokogiri (~> 1.3)
 
@@ -289,6 +296,7 @@ DEPENDENCIES
   debase
   factory_girl (~> 2.6)
   ffaker
+  json
   protected_attributes
   rspec-rails (~> 2.9)
   ruby-debug-base
@@ -297,6 +305,7 @@ DEPENDENCIES
   simplecov (~> 0.6.2)
   spree_amazon_affiliate!
   sqlite3 (~> 1.3.6)
+  xml-to-json
 
 BUNDLED WITH
    1.16.3
