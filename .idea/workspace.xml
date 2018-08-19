@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lovcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lovcart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -60,7 +55,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="28" />
+          <entry key="Gemfile" value="29" />
           <entry key="css" value="3" />
           <entry key="erb" value="65" />
           <entry key="gemspec" value="9" />
@@ -74,13 +69,13 @@
           <entry key="CSS" value="3" />
           <entry key="JavaScript" value="10" />
           <entry key="RHTML" value="65" />
-          <entry key="Ruby" value="219" />
+          <entry key="Ruby" value="220" />
           <entry key="YAML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="222" />
+          <entry key="Gemfile" value="223" />
           <entry key="erb" value="1640" />
           <entry key="gemspec" value="69" />
           <entry key="js" value="30" />
@@ -92,7 +87,7 @@
         <counts>
           <entry key="JavaScript" value="30" />
           <entry key="RHTML" value="1640" />
-          <entry key="Ruby" value="6619" />
+          <entry key="Ruby" value="6620" />
           <entry key="YAML" value="48" />
         </counts>
       </usages-collector>
@@ -108,11 +103,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="180">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -389,18 +393,17 @@
       <workItem from="1534299129213" duration="40953000" />
       <workItem from="1534393130912" duration="23056000" />
       <workItem from="1534473516627" duration="39403000" />
-      <workItem from="1534654099514" duration="27715000" />
+      <workItem from="1534654099514" duration="28054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240134000" />
+    <option name="totallyTimeSpent" value="240473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2019154" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2019154" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -413,7 +416,7 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" weight="0.49673203" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" visible="true" weight="0.49673203" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5051876" side_tool="true" weight="0.3970588" />
       <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49960095" weight="0.47549018" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -707,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="131" column="11" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/create.js.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -761,8 +757,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="180">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
