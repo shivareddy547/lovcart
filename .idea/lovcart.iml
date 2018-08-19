@@ -275,7 +275,6 @@
     <orderEntry type="library" scope="PROVIDED" name="spree_cmd (v3.6.2, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_core (v3.6.2, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_extension (v0.0.5, RVM: ruby-2.4.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_favorite_products (v3.3.0@a3408e, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_frontend (v3.6.2, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_gateway (v3.3.3, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_opengraph (v0.1.0.beta1@1ea521, RVM: ruby-2.4.0) [gem]" level="application" />

@@ -1,0 +1,43 @@
+
+<% if @success %>
+if($('.favorite_link').length) {
+    test=".heart_<%= params[:id] %>";
+
+//    $('.favorite_link i'+test).closest('a').attr('href', '<%#= favorite_product_path(id: params[:id], type: params[:type]) %>').attr('id', 'mark_as_favorite').data('method', 'post').text("<span class='heart_before'></span>".html_safe)
+
+    // $('.favorite_link').attr('href', '<%#= favorite_products_path(:id => params[:id], type: params[:type]) %>').attr('id', 'mark_as_favorite').data('method', 'post').text("<span class='heart_before'></span>".html_safe)
+    test=".heart_<%= params[:id] %>";
+//      alert(test)
+    if($('.favorite_link i'+test).length>0)
+    {
+//        alert("yes")
+        $('.favorite_link i'+test).closest('a').attr('href', '<%= favorite_products_path(:id => params[:id], type: params[:type]) %>').attr('id', 'mark_as_favorite').data('method', 'post').text("<span class='heart_before'></span>".html_safe)
+
+//          $('.favorite_link i'+test).closest('a').attr('id','mark-as-favorite')
+//        $('.favorite_link i'+test).closest('a').attr('data-method','post')
+        $('.favorite_link i'+test).attr("class","heart_before heart_before_<%= params[:id] %> fa fa-heart-o");;
+
+    }
+    else
+    {
+        $('.favorite_link').attr('href', '<%= favorite_products_path(:id => params[:id], type: params[:type]) %>').attr('id', 'mark_as_favorite').data('method', 'post').text("<span class='heart_before'></span>".html_safe)
+
+        $('.favorite_link i').attr("class","heart_before fa fa-heart-o");
+    }
+
+//      $('.favorite_link span'+test).attr("class","heart_before heart_before_<%= params[:id] %>");
+//      alert('Successfully unmarked as favorite');
+} else {
+    <% if @favorite.favoritable_type == 'Spree::Product' %>
+    $("#favorite_product_<%= @favorite.favoritable_id%>").remove();
+    <% else %>
+    $("#favorite_variant_<%= @favorite.favoritable_id%>").remove();
+    <% end %>
+    alert("Successfully removed favorite product from your list");
+//    if (!$('.favorite_product').length) {
+//      window.location = '<%#= favorite_products_path %>'
+//    }
+}
+<% else %>
+alert("Could not remove product form your list")
+<% end %>

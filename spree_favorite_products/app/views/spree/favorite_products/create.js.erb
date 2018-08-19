@@ -1,0 +1,34 @@
+
+<% if @success %>
+test=".heart_before_<%= params[:id] %>";
+//alert('.favorite_link i'+test)
+
+
+
+//$('.favorite_link i'+test).closest('a').attr('href', '<%#= favorite_product_path(id: params[:id], type: params[:type]) %>').attr('id', 'unmark_as_favorite').data('method', 'delete').text("<span class='heart'></span>".html_safe)
+//$('.favorite_link i'+test).closest('a').attr('id','unmark_as_favorite')
+if($('.favorite_link i'+test).length>0)
+{
+//    alert('yesssssssssss')
+    $('.favorite_link i'+test).closest('a').attr('href', '<%= favorite_product_path(id: params[:id], type: params[:type]) %>').attr('id', 'unmark_as_favorite').data('method', 'delete').text("<span class='heart'></span>".html_safe)
+
+    $('.favorite_link i'+test).closest('a').attr('data-method','delete')
+    $('.favorite_link i'+test).attr("class","heart heart_<%= params[:id] %> fa fa-heart");
+}
+else
+{
+//    alert("ffdgdgdfgfd")
+    $('.favorite_link').attr('href', '<%= favorite_product_path(id: params[:id], type: params[:type]) %>').attr('id', 'unmark_as_favorite').data('method', 'delete').text("<span class='heart'></span>".html_safe)
+
+    // $('.favorite_link').attr('href', '<%= favorite_product_path(id: params[:id], type: params[:type]) %>').attr('id', 'unmark_as_favorite').data('method', 'delete').text("<span class='heart'></span>".html_safe)
+
+    $('.favorite_link i').attr("class","heart fa fa-heart");
+
+}
+var $item = $("#favorite_variant_<%= params[:id]%>"),
+    $removeFromCart = $item.closest('tr').find('a.delete');
+
+$item.remove();
+$removeFromCart.click(); // remove it from cart
+<% end %>
+//alert("<%#=j @message%>");

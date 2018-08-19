@@ -6,8 +6,8 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-# gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'pg'
+gem 'mysql2', '>= 0.4.4', '< 0.6.0'
+# gem 'pg'
 
 
 
@@ -103,7 +103,7 @@ gem 'spree_social', github: 'spree-contrib/spree_social'
 
 # gem 'spree_social_media_marketing', github: 'vinsol-spree-contrib/spree-social-media-marketing', branch: '3-1-stable'
 gem 'spree_social_products',:path=>"spree_social_products"
-gem 'spree_favorite_products', github: 'vinsol-spree-contrib/spree_favorite_products'
+# gem 'spree_favorite_products', github: 'vinsol-spree-contrib/spree_favorite_products'
 gem 'spree_amazon_affiliate', :path => 'spree_amazon_affiliate'
 # gem 'spree_amazon_affiliate'
 # gem 'spree_wishlist', github: 'spree-contrib/spree_wishlist', branch: 'master'
@@ -130,3 +130,5 @@ gem 'json'
 gem 'crack'
 gem 'base64_token' , :github=>"kaeuferportal/base64_token"
 gem 'dalli'
+gem 'spree_favorite_products',:path=>'spree_favorite_products'
+# gem 'spree_favorite_products',:github=>'vinsol-spree-contrib/spree_favorite_products'
