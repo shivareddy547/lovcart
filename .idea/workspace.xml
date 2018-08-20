@@ -2,7 +2,344 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/system/spree/themes/theme-CrownTheme-3-3-bump.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/system/spree/themes/theme-EStore-3-3-stable.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/home-slider/slide1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/home-slider/slide2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/home-slider/slide3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/logo-m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/javascripts/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/javascripts/default.manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/javascripts/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/meta_info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/.sprockets-manifest-342a9f8d3ffb712d941c51ea6ca285ce.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/FontAwesome-444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/FontAwesome-444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5.otf.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/base-9cc52b8131545dbeaedddbb86cdf11e225c502e5e1ef02a461ba0def6a659edb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/base-9cc52b8131545dbeaedddbb86cdf11e225c502e5e1ef02a461ba0def6a659edb.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/cart-14d51bb575d1529b8dd4d8d38ee4e0323b174bba1b181c6b233dfca664551001.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/cart-14d51bb575d1529b8dd4d8d38ee4e0323b174bba1b181c6b233dfca664551001.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/custom-23b24439357b7250990fa5460ae077912bf59c9f07447da1c4f7d2faff0028e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/custom-23b24439357b7250990fa5460ae077912bf59c9f07447da1c4f7d2faff0028e3.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/default.manifest-38e8579cc4a50b2c6e65f5797b1cb956631253d41610c93b2169ccb4a05b3a3e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/default.manifest-38e8579cc4a50b2c6e65f5797b1cb956631253d41610c93b2169ccb4a05b3a3e.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/default.manifest-69709b4c1896b04c58772e805d2003bc8b1502894451fd901be3438e7e9415f6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/default.manifest-69709b4c1896b04c58772e805d2003bc8b1502894451fd901be3438e7e9415f6.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/font-awesome.min-848798fd0ba99e187df7ff0d4d6ecf742fb9d58cad79ca47b7946743ecbfa9aa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/font-awesome.min-848798fd0ba99e187df7ff0d4d6ecf742fb9d58cad79ca47b7946743ecbfa9aa.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/header-0a16749604cde55a55a3b0be6b9aadccd371b652ee072f648c043dc5e801a596.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/header-0a16749604cde55a55a3b0be6b9aadccd371b652ee072f648c043dc5e801a596.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-3b29762350b4fecc6cae9e8eabf8687698b76a450d2fc20ddb5d109776ffdb5f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-3b29762350b4fecc6cae9e8eabf8687698b76a450d2fc20ddb5d109776ffdb5f.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-slider/slide1-8cc7ab160acd126f3dc1e115690bd1ef832f8498a3058cc471d324be0d1e0b06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-slider/slide2-52626b658b095578b6e5e8413a6dd1ea75174615b54195a6a3028c3b439c8a6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-slider/slide3-678642e7c96d61f3459078aed903bbf10b3f37404fa29e73e8f31d26e9634b2e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/logo-620d34ef4ae73fb3f9b636207c4a334f73c212e29eb9cffb23957f887c8c9128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/logo-m-20e58bbdc58900c966f4821ba405aaf6a4fdec59c4be5f20d3dfdc75a06145f9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/logo1-5e75e8211e79f27320e855defe85c26f418238f8aa7a0e730c4dcc4d44318f8b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/owl.carousel-88798fde97e4ba5f8d03cd105fafade60e1338590e541a314645beaed42df6e7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/owl.carousel-88798fde97e4ba5f8d03cd105fafade60e1338590e541a314645beaed42df6e7.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/owl.carousel.min-0e01a8e2932a5e2a9335c446be35415f2111df71b4f6f9d1a2dad01fada4ffb4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/owl.carousel.min-0e01a8e2932a5e2a9335c446be35415f2111df71b4f6f9d1a2dad01fada4ffb4.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/product-e3d53c8ba5a4faf8f381b407a910524a60d667ccf7ea179943ff479aca0fbca6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/product-e3d53c8ba5a4faf8f381b407a910524a60d667ccf7ea179943ff479aca0fbca6.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/variables-b81c415d36377521d84d6ec433a7f9dcb58e2c8cf25ae71bf914adfc661eaff2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/variables-b81c415d36377521d84d6ec433a7f9dcb58e2c8cf25ae71bf914adfc661eaff2.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/snapshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/cart.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/default.manifest.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/owl.carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/product.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_first_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_gap.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_last_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_next_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_paginator.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_prev_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/address/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_address.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_address.html.sublime-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_confirm.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_delivery.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_new_user.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_payment.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_summary.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/payment/_check.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/payment/_gateway.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/payment/_storecredit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/registration.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/content/cvv.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/content/test.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/home/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/layouts/spree_application.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/_adjustment_row.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/_adjustments.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/_line_item.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_cart_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_promotions.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_properties.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_taxons.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_thumbnails.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_address.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_error_messages.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_filters.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_flashes.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_footer.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_google_add_items.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_google_analytics.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_google_checkout.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_google_purchase.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_head.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_header.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_link_to_account.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_link_to_cart.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_login.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_login_bar.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_main_nav_bar.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_nav_bar.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_order_details.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_payment.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_products.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_search.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_shipment_tracking.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_sidebar.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_taxonomies.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_translations.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_user_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/forbidden.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/trackers/segment/_initializer.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/trackers/segment/_order_complete.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/unauthorized.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/store/cart_link.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/taxons/_taxon.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/taxons/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_mailer/confirmation_instructions.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_mailer/reset_password_instructions.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_passwords/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_passwords/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_registrations/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_sessions/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/users/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/users/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-apache.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-bag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-bag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-clothing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-mug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-rails.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-ruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-spree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/home-slider1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/home-slider2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/home-slider3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/javascripts/default.manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/javascripts/lib/jquery.bxslider-rahisified.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/javascripts/mobile-views.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/javascripts/sliders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/meta_info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/.sprockets-manifest-4d444a662b78481941ae91cd7832c289.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-apache-c8d1760535b49f93fba75fbf8158d78bb508fae74efce34b2505417f4a090cbb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-bag-bb8d8a40c6fdaed54f46704eb7c8e774aff0cbb3ede05a3933dccd7e3d52b26d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-bag-e99ffb2ede40698bb2b9f9df01d8576809420171b916aae167c0b4446247ebaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-clothing-6e421280fb6dfd62e0302b9fb6d7a21bdad42f7a3e5fa309b1ab155df10cfa55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-mug-b55a268531c8238a7dc538cfac1b6613cfcede7d9f0fbba2802aa3810a0f1cd6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-rails-6e74a38d64f03cbaf88e60e33a96b671d6978f549a250db55a1e5fe137eb3401.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-ruby-ac5e4677779446620e8439281a739c23e47cdb3155a44cd2043830b4397beac1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-spree-c026a413886798de57b0c116968586c1d4189f167310c75f0ded1923cccf46e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/fonts-ce0e8502b4ef48020260ed9ce2a9599129db28cbc47908b99c8c8ed14ec53f00.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/fonts-ce0e8502b4ef48020260ed9ce2a9599129db28cbc47908b99c8c8ed14ec53f00.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/global-e68facf7d3ce0e4c8454ff5535eeb847ff349d84ba9abdba9a4f93ad5eb485e4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/global-e68facf7d3ce0e4c8454ff5535eeb847ff349d84ba9abdba9a4f93ad5eb485e4.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/variables-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/variables-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/footer-87d5776c4a3cbf86b1582bcc3dbe74a8eb5d27c921b5c137f1677c7a77dacb63.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/footer-87d5776c4a3cbf86b1582bcc3dbe74a8eb5d27c921b5c137f1677c7a77dacb63.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/header-4844327bcced9eaac0e1133d0233da952d5d681d84823e8ab56c20d2469507ef.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/header-4844327bcced9eaac0e1133d0233da952d5d681d84823e8ab56c20d2469507ef.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/product-block-2cd7e0c31ef5d4167bdd916b53390917f9f2389097f288f5fc305f4ff7491751.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/product-block-2cd7e0c31ef5d4167bdd916b53390917f9f2389097f288f5fc305f4ff7491751.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/default.manifest-bd63f3289793afbd0c8eec135901826df1e7879acbd567f3bc424f9641fe3e75.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/default.manifest-bd63f3289793afbd0c8eec135901826df1e7879acbd567f3bc424f9641fe3e75.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/default.manifest-f6f156f6d05b70474b68f581550f69c34868c12340c7e41b77fa697810e33fa5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/default.manifest-f6f156f6d05b70474b68f581550f69c34868c12340c7e41b77fa697810e33fa5.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/home-slider1-2e237b9bd482a16fff23ffc9df6029c5e8627e25a3d4139c25230281ebcc3ece.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/home-slider2-99a17de3320c884fb0deb6d157d39b4ee53277d272c7dd8ea2b3050c0f8bcfdb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/home-slider3-5aba7a3cdc804909c01efc20b7bb32179195bc34dc7edd690ee3da578b80bc03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/font-awesome.min-306130e6ba08a261d693df60443a670ca53a7a541654c4138090053ccf0a94a2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/font-awesome.min-306130e6ba08a261d693df60443a670ca53a7a541654c4138090053ccf0a94a2.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/jquery.bxslider-6d2307eb9859c53036d63e44adf1175337d36f6465ad6cad11851442502c6089.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/jquery.bxslider-6d2307eb9859c53036d63e44adf1175337d36f6465ad6cad11851442502c6089.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/jquery.bxslider-rahisified-d5be85adb62032c21266aefa96e5c8cb9c46a6eada7bae3952dc8a9801586137.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/jquery.bxslider-rahisified-d5be85adb62032c21266aefa96e5c8cb9c46a6eada7bae3952dc8a9801586137.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/mobile-views-6adc03302790f9c667a835149614ed16730e4e8d9138b211cd2df3ac8a3d51de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/mobile-views-6adc03302790f9c667a835149614ed16730e4e8d9138b211cd2df3ac8a3d51de.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/cart-c76a08c7850cd6da8493e020be97951feaca63d88f6984b4daf66ab685dfe12a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/cart-c76a08c7850cd6da8493e020be97951feaca63d88f6984b4daf66ab685dfe12a.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/checkout-199bd27045519d065f87e28a90daaa1da0882fa052bce71a00610f9328e70061.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/checkout-199bd27045519d065f87e28a90daaa1da0882fa052bce71a00610f9328e70061.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/home-6abb667a7fe180bd34e945b3c0ece023daf6d442232e9c07c071962487687d86.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/home-6abb667a7fe180bd34e945b3c0ece023daf6d442232e9c07c071962487687d86.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/product-details-7f5d419a30592d5915dc3033ea68ba60af10da043fefc54b8652b83ca10cee96.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/product-details-7f5d419a30592d5915dc3033ea68ba60af10da043fefc54b8652b83ca10cee96.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/users-e7fbcf30318bf7c278999329fb65f3671e9a5770c20aa670df4e8bb8a02fee4f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/users-e7fbcf30318bf7c278999329fb65f3671e9a5770c20aa670df4e8bb8a02fee4f.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/sliders-0f63f9f8cb86526d97a59fb0972917d7e8703920c3395c683e3a4670be710465.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/sliders-0f63f9f8cb86526d97a59fb0972917d7e8703920c3395c683e3a4670be710465.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/snapshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/common/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/common/global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/common/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/common/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/components/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/components/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/components/product-block.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/default.manifest.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/lib/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/lib/jquery.bxslider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/cart.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/checkout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/product-details.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/users.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_first_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_gap.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_last_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_next_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_paginator.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_prev_page.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/address/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_address.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_confirm.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_delivery.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_new_user.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_payment.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_summary.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/payment/_check.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/payment/_gateway.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/payment/_storecredit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/registration.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/content/cvv.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/content/test.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/home/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/layouts/spree_application.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/_adjustment_row.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/_adjustments.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/_line_item.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/payments/_payment.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_cart_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_promotions.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_properties.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_taxons.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_thumbnails.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_address.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_error_messages.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_filters.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_flashes.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_footer.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_google_add_items.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_google_analytics.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_google_checkout.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_google_purchase.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_head.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_header.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_home_banners.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_home_slider.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_homepage_brand.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_link_to_account.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_link_to_cart.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_login.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_login_bar.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_main_nav_bar.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_nav_bar.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_order_details.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_products.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_search.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_shipment_tracking.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_sidebar.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_social.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_taxonomies.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_translations.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_user_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/forbidden.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/trackers/segment/_initializer.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/trackers/segment/_order_complete.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/unauthorized.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/store/cart_link.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/taxons/_taxon.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/taxons/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_mailer/confirmation_instructions.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_mailer/reset_password_instructions.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_passwords/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_passwords/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_registrations/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_sessions/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/users/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/users/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/.sprockets-manifest-8db785bb3296679494c2ef3821e72825.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/FontAwesome-444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5.otf.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/FontAwesome-444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5.otf.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/base-7ceb6cc58c6938ee9a1ea5a7179271043389741b9fcdccf24591b3e64d809a37.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/base-7ceb6cc58c6938ee9a1ea5a7179271043389741b9fcdccf24591b3e64d809a37.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/cart-987a23342a261237e34be54d4607e7503e42fec4dd49533259b94ee37ea11844.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/cart-987a23342a261237e34be54d4607e7503e42fec4dd49533259b94ee37ea11844.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/custom-01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/custom-01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/default.manifest-a363895cd7b5e675dcb4dce50f304259b22ca9fb4a6b8d1dfab61b14028e5b11.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/default.manifest-a363895cd7b5e675dcb4dce50f304259b22ca9fb4a6b8d1dfab61b14028e5b11.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/default.manifest-e99d5e0bb94541dc182f16159617ba3d9feef8c8e85cbe159a889b70116aca92.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/default.manifest-e99d5e0bb94541dc182f16159617ba3d9feef8c8e85cbe159a889b70116aca92.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/font-awesome.min-848798fd0ba99e187df7ff0d4d6ecf742fb9d58cad79ca47b7946743ecbfa9aa.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/font-awesome.min-848798fd0ba99e187df7ff0d4d6ecf742fb9d58cad79ca47b7946743ecbfa9aa.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/footer-acc38432a2882d79927823f9a5cb26454420c115474e39fae69cb4d9250d0cce.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/footer-acc38432a2882d79927823f9a5cb26454420c115474e39fae69cb4d9250d0cce.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/header-1eca4c6334f19e886381e882f2123ccb92a2267dc4482c9e0eaa81f0fe64a948.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/header-1eca4c6334f19e886381e882f2123ccb92a2267dc4482c9e0eaa81f0fe64a948.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/product-f0a6e5fbeaa930fe39fb9da4c5afa99240e51b9504487ec682d658afca1c71aa.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/product-f0a6e5fbeaa930fe39fb9da4c5afa99240e51b9504487ec682d658afca1c71aa.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/variables-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/variables-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/layouts/spree_application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/layouts/spree_application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/orders/_line_item.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/orders/_line_item.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_taxons.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_taxons.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_thumbnails.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_thumbnails.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -18,7 +355,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1534688556064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
+    <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1534771510208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.coverage" NAME="Development: lovcart Coverage Results" MODIFIED="1533660806423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.rcov" NAME="Production: lovcart Coverage Results" MODIFIED="1534172168625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.coverage" NAME="Production: lovcart Coverage Results" MODIFIED="1533647490652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
@@ -41,23 +378,24 @@
           <entry key="project.open.time.105" value="1" />
           <entry key="project.open.time.107" value="1" />
           <entry key="project.open.time.108" value="3" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.428" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.90" value="1" />
           <entry key="project.open.time.91" value="1" />
-          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.93" value="2" />
           <entry key="project.open.time.95" value="1" />
           <entry key="project.open.time.97" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Gemfile" value="29" />
           <entry key="css" value="3" />
-          <entry key="erb" value="65" />
+          <entry key="erb" value="66" />
           <entry key="gemspec" value="9" />
           <entry key="js" value="10" />
           <entry key="rb" value="182" />
@@ -68,7 +406,7 @@
         <counts>
           <entry key="CSS" value="3" />
           <entry key="JavaScript" value="10" />
-          <entry key="RHTML" value="65" />
+          <entry key="RHTML" value="66" />
           <entry key="Ruby" value="220" />
           <entry key="YAML" value="14" />
         </counts>
@@ -76,7 +414,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="223" />
-          <entry key="erb" value="1640" />
+          <entry key="erb" value="1644" />
           <entry key="gemspec" value="69" />
           <entry key="js" value="30" />
           <entry key="rb" value="6328" />
@@ -86,7 +424,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="30" />
-          <entry key="RHTML" value="1640" />
+          <entry key="RHTML" value="1644" />
           <entry key="Ruby" value="6620" />
           <entry key="YAML" value="48" />
         </counts>
@@ -107,16 +445,25 @@
         <entry file="file://$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+        <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="194">
+              <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -216,10 +563,10 @@
         <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_taxons.html.erb" />
         <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/layouts/spree_application.html.erb" />
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/add_link_to_mark_product_as_favorite.rb" />
-        <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb" />
         <option value="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/destroy.js.erb" />
         <option value="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/create.js.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb" />
       </list>
     </option>
   </component>
@@ -256,6 +603,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,53 +615,44 @@
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="spree_social_products" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="spree_social_products" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="spree_social_products" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
+              <item name="theme-OnlineStore-3-3-bump" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
+              <item name="theme-OnlineStore-3-3-bump" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="spree_social_products" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="spree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="spree_social_products" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="spree" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="spree_social_products" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
+              <item name="theme-OnlineStore-3-3-bump" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="spree" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="social_settings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="spree_social_products" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
+              <item name="theme-OnlineStore-3-3-bump" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="spree" type="462c0819:PsiDirectoryNode" />
               <item name="shared" type="462c0819:PsiDirectoryNode" />
@@ -321,8 +661,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,16 +732,18 @@
       <workItem from="1534393130912" duration="23056000" />
       <workItem from="1534473516627" duration="39403000" />
       <workItem from="1534654099514" duration="28054000" />
+      <workItem from="1534692639719" duration="3864000" />
+      <workItem from="1534770363192" duration="1176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240473000" />
+    <option name="totallyTimeSpent" value="245513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2019154" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20830008" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -416,9 +756,9 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" visible="true" weight="0.49673203" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" weight="0.49509802" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5051876" side_tool="true" weight="0.3970588" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49960095" weight="0.47549018" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49960095" visible="true" weight="0.47549018" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -724,13 +1064,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_taxons.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -758,14 +1091,21 @@
     <entry file="file://$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
         </state>
       </provider>
     </entry>
