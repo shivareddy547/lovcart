@@ -6,8 +6,8 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-# gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'pg'
+gem 'mysql2', '>= 0.4.4', '< 0.6.0'
+# gem 'pg'
 
 
 
@@ -108,7 +108,7 @@ gem 'spree_amazon_affiliate', :github => 'shivareddy547/spree_amazon_affiliate'
 # gem 'spree_amazon_affiliate'
 # gem 'spree_wishlist', github: 'spree-contrib/spree_wishlist', branch: 'master'
 #
-# gem 'spree_wishlist',:path=>'spree_wishlist'
+gem 'spree_wishlist',:github=>'shivareddy547/spree_wishlist'
 # gem 'spree_email_to_friend', github: 'spree-contrib/spree_email_to_friend', branch: '3-1-stable'
 #
 # gem 'protected_attributes', :github => 'rails/protected_attributes'

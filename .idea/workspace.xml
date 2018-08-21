@@ -3,376 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/lovcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lovcart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Development__spree_social_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__spree_social_products.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Production__spree_social_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__spree_social_products.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/spec__spree_social_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__spree_social_products.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/test__spree_social_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__spree_social_products.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/README.rdoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/FlipkartApi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/created.rid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/arrow_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/brick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/brick_link.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/bug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/bullet_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/bullet_toggle_minus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/bullet_toggle_plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/date.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/delete.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/find.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/loadingAnimation.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/macFFBgHack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/package.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/page_green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/page_white_text.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/page_white_width.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/plugin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/ruby.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/tag_blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/tag_green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/transparent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/wrench.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/wrench_orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/zoom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/darkfish.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/search_index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/searcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/rdoc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/table_of_contents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/examples/categories.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/examples/products_by_category.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/flipkart_api.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/lib/flipkart_api.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/lib/flipkart_delta_api.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart_api/spec/flipkart_api_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/system/spree/themes/theme-OnlineStore-3-3-bump.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/system/spree/themes/theme-OnlineStore-3-3-bump.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.generators" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.rakeTasks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.rspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.rvmrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Versionfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/admin/spree_amazon_affiliate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/store/spree_amazon_affiliate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/admin/spree_amazon_affiliate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/store/spree_amazon_affiliate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/templates/Amazon Import Template.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_imports_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_products_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_taxons_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_imports_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_products_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_taxons_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/helpers/amazon_affiliate_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/asset.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/image.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/import.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product_collection.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/taxon.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/variant.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/variant_collection.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/asset.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/base.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/image.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/import.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/product.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/product_collection.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/taxon.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/variant.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/variant_collection.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/add_link_to_mark_product_as_favorite.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/amazon_admin_tab.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/replace_add_to_cart_button.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/replace_variant_quantity.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/replace_wishlist_add_to_cart_button.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_imports/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_products/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_taxons/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_imports/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/search_products.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/flipkart_products.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_amazon_product_search.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_amazon_sub_menu.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_flipkart_product_search.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/products/_add_to_cart_button.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/wishlists/_add_to_cart_button.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/config/amazon_affiliate.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/config/locales/en.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20111011000000_add_amazon_id_to_product.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20120604005532_create_imports.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/amazon/ecs.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/generators/spree_amazon_affiliate/install/install_generator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree/core/search/amazon.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree/core/search/flipkart.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_amazon_affiliate.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_amazon_affiliate/engine.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/base.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/taxon.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/tasks/spree_amazon_affiliate.rake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/script/rails" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/fixtures/invalid_template.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/fixtures/valid_template.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/helpers/amazon_affiliate_helper_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/lib/spree/core/search/amazon_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/asset_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/image_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/import_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/product_collection_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/product_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/taxon_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/requests/admin/amazon_imports/import_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/requests/admin/amazon_products/product_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/requests/admin/amazon_taxons/taxon_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/spec_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/.rspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/Appraisals" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/admin/spree_favorite_products.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/spree/backend/spree_favorite_products.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/spree/frontend/favoritable_product.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/spree/frontend/spree_favorite_products.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/store/spree_favorite_products.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/stylesheets/admin/spree_favorite_products.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/stylesheets/spree/backend/spree_favorite_products.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/stylesheets/spree/frontend/spree_favorite_products.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/stylesheets/store/spree_favorite_products.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/admin/favorite_products_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/admin/favorite_variants_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/admin/products_controller_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/admin/users_controller_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/favorite_products_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/app_configuration_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/favorite.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/product_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/user_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/variant_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_favorite_products_per_page_configuration.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_favorite_products_to_products_tab.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_favorite_users_tab_to_products.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_favorite_variants_to_product_tab.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_javascript_to_product_show.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_link_to_mark_product_as_favorite.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_link_to_users_favorite_products.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_save_for_later_to_cart.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/addd_favorite_products_tab_to_users.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/_favorited_by_users.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/_table.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/_users.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/users.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_variants/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/products/favorite_users.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/users/favorite_products.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/_cart_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/create.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/destroy.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/get_favoritable_value.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/not_found.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/config/locales/bg.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/config/locales/en.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/config/locales/pl.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/config/routes.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20130705080641_create_table_favorites.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20130710105100_rename_favorites_to_spree_favorites.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20160304152800_add_favorites_user_counts_to_product.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20180508000000_remove_indexes_from_spree_favorites.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20180508074324_add_polymorphic_fields_to_spree_favorites.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20180508074838_remove_product_id_from_spree_favorites.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20180508095945_add_favorites_user_count_to_variant.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/.bundle/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/spree_3_2.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/spree_3_3.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/spree_3_4.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/spree_master.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/lib/generators/spree_favorite_products/install/install_generator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/lib/spree_favorite_products.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/lib/spree_favorite_products/engine.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/lib/spree_favorite_products/factories.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/script/rails" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/admin/favorite_products_controller_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/admin/favorite_variants_controller_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/admin/products_controller_decorator_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/admin/users_controller_decorator_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/favorite_products_controller_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/app_configuration_decorator_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/favorite_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/product_decorator_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/user_decorator_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/variant_decorator_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/spec_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/support/database_cleaner.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/support/simple_cov.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spree_favorite_products.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/.generators" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/.hound.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/.rakeTasks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/.rspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/.rubocop.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/images/social/delicious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/backend/social_share.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/backend/spree_social_products.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/frontend/spree_social_products.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/stylesheets/spree/backend/social_share.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/stylesheets/spree/backend/spree_social_products.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/stylesheets/spree/frontend/social_share.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/stylesheets/spree/frontend/spree_social_products.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/controllers/spree/admin/social_settings_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/helpers/spree/base_helper_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/overrides/add_fb_script_to_header.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/overrides/add_social_buttons_to_products.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/overrides/admin_configuration_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/admin/social_settings/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_fb_script.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social_buttons.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_delicious.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_facebook.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_google_plus.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_pinterest.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_reddit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_tumblr.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_twitter.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/bin/rails" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/config/locales/de.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/config/locales/en.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/config/locales/es.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/config/locales/sv.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/config/routes.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/generators/spree_social_products/install/install_generator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/spree/social_setting.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/spree_social_products.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/spree_social_products/engine.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/spree_social_products/version.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/controllers/spree/admin/social_settings_controller_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/features/spree/admin/social_settings_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/features/spree/social_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/helpers/spree/base_helper_decorator_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/lib/spree/social_setting_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/spec_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/support/capybara.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/support/database_cleaner.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/support/factory_girl.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/support/spree.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_social_products/spree_social_products.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/.hound.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/.rakeTasks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/.rspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/.rubocop.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/Appraisals" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/Guardfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/assets/javascripts/spree/frontend/spree_wishlist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/assets/javascripts/spree/frontend/wishlist.js.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/assets/stylesheets/spree/frontend/spree_wishlist.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/assets/stylesheets/spree/frontend/wishlist.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/controllers/spree/wished_products_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/controllers/spree/wishlists_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/models/spree/user_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/models/spree/variant_decorator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/models/spree/wished_product.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/models/spree/wishlist.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/overrides/add_wish_to_cart_form.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/overrides/add_wishlists_to_account_my_orders.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/products/_wishlist_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/users/_wishlists.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/_accessibility.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/_mail_to_friend.text.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/update.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/de.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/en.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/es.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/fr.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/it.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/pl.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/pt-BR.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/pt.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/ro.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/ru.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/sv.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/routes.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20091020182940_create_wishlists.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20091020183520_create_wished_products.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20111130204731_prefix_wishlist_tables_with_spree.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20140403013413_remove_wished_products_for_deleted_variants.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20140422003308_add_index_to_wishlists.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20150805204533_add_quantity_to_wished_products.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/.bundle/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_3_1.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_3_2.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_3_3.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_3_4.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_master.gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/generators/spree_wishlist/install/install_generator.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/spree_wishlist.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/spree_wishlist/engine.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/spree_wishlist/version.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/wishlist_ability.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/controllers/spree/wished_products_controller_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/controllers/spree/wishlists_controller_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/factories/user_with_wishlist_factory.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/factories/wished_product_factory.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/factories/wishlist_factory.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/features/spree/wished_product_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/features/spree/wishlist_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/lib/wishlist_ability_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/models/spree/wished_product_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/models/spree/wishlist_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/spec_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/capybara.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/database_cleaner.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/factory_bot.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/spree.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/wishlist_ability_helpers.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spree_wishlist/spree_wishlist.gemspec" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -432,7 +65,7 @@
           <entry key="gemspec" value="9" />
           <entry key="js" value="10" />
           <entry key="rb" value="182" />
-          <entry key="yml" value="14" />
+          <entry key="yml" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -441,7 +74,7 @@
           <entry key="JavaScript" value="10" />
           <entry key="RHTML" value="66" />
           <entry key="Ruby" value="220" />
-          <entry key="YAML" value="14" />
+          <entry key="YAML" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -469,11 +102,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-418">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -502,7 +144,6 @@
       <find>====amazon===self===</find>
       <find>meta</find>
       <find>currency</find>
-      <find>pg</find>
       <find>attachment</find>
       <find>main_app.url_for</find>
       <find>================maped====</find>
@@ -512,6 +153,7 @@
       <find>add_link_to_mark_product_as_favorite</find>
       <find>hover-content</find>
       <find>spree_favorite_products</find>
+      <find>pg</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -625,7 +267,7 @@
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -703,16 +345,15 @@
       <workItem from="1534473516627" duration="39403000" />
       <workItem from="1534654099514" duration="28054000" />
       <workItem from="1534692639719" duration="3864000" />
-      <workItem from="1534770363192" duration="11782000" />
+      <workItem from="1534770363192" duration="13088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256119000" />
+    <option name="totallyTimeSpent" value="257425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20830008" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -751,9 +392,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20120604005532_create_imports.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -1075,8 +713,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
