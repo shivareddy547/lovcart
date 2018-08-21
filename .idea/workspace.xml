@@ -2,344 +2,377 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/lovcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lovcart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Development__spree_social_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__spree_social_products.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Production__spree_social_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__spree_social_products.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/spec__spree_social_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__spree_social_products.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/test__spree_social_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__spree_social_products.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/system/spree/themes/theme-CrownTheme-3-3-bump.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/system/spree/themes/theme-EStore-3-3-stable.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/home-slider/slide1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/home-slider/slide2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/home-slider/slide3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/logo-m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/images/logo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/javascripts/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/javascripts/default.manifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/javascripts/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/meta_info.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/.sprockets-manifest-342a9f8d3ffb712d941c51ea6ca285ce.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/FontAwesome-444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/FontAwesome-444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5.otf.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/base-9cc52b8131545dbeaedddbb86cdf11e225c502e5e1ef02a461ba0def6a659edb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/base-9cc52b8131545dbeaedddbb86cdf11e225c502e5e1ef02a461ba0def6a659edb.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/cart-14d51bb575d1529b8dd4d8d38ee4e0323b174bba1b181c6b233dfca664551001.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/cart-14d51bb575d1529b8dd4d8d38ee4e0323b174bba1b181c6b233dfca664551001.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/custom-23b24439357b7250990fa5460ae077912bf59c9f07447da1c4f7d2faff0028e3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/custom-23b24439357b7250990fa5460ae077912bf59c9f07447da1c4f7d2faff0028e3.js.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/default.manifest-38e8579cc4a50b2c6e65f5797b1cb956631253d41610c93b2169ccb4a05b3a3e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/default.manifest-38e8579cc4a50b2c6e65f5797b1cb956631253d41610c93b2169ccb4a05b3a3e.js.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/default.manifest-69709b4c1896b04c58772e805d2003bc8b1502894451fd901be3438e7e9415f6.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/default.manifest-69709b4c1896b04c58772e805d2003bc8b1502894451fd901be3438e7e9415f6.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/font-awesome.min-848798fd0ba99e187df7ff0d4d6ecf742fb9d58cad79ca47b7946743ecbfa9aa.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/font-awesome.min-848798fd0ba99e187df7ff0d4d6ecf742fb9d58cad79ca47b7946743ecbfa9aa.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/header-0a16749604cde55a55a3b0be6b9aadccd371b652ee072f648c043dc5e801a596.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/header-0a16749604cde55a55a3b0be6b9aadccd371b652ee072f648c043dc5e801a596.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-3b29762350b4fecc6cae9e8eabf8687698b76a450d2fc20ddb5d109776ffdb5f.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-3b29762350b4fecc6cae9e8eabf8687698b76a450d2fc20ddb5d109776ffdb5f.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-slider/slide1-8cc7ab160acd126f3dc1e115690bd1ef832f8498a3058cc471d324be0d1e0b06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-slider/slide2-52626b658b095578b6e5e8413a6dd1ea75174615b54195a6a3028c3b439c8a6c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/home-slider/slide3-678642e7c96d61f3459078aed903bbf10b3f37404fa29e73e8f31d26e9634b2e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/logo-620d34ef4ae73fb3f9b636207c4a334f73c212e29eb9cffb23957f887c8c9128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/logo-m-20e58bbdc58900c966f4821ba405aaf6a4fdec59c4be5f20d3dfdc75a06145f9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/logo1-5e75e8211e79f27320e855defe85c26f418238f8aa7a0e730c4dcc4d44318f8b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/owl.carousel-88798fde97e4ba5f8d03cd105fafade60e1338590e541a314645beaed42df6e7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/owl.carousel-88798fde97e4ba5f8d03cd105fafade60e1338590e541a314645beaed42df6e7.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/owl.carousel.min-0e01a8e2932a5e2a9335c446be35415f2111df71b4f6f9d1a2dad01fada4ffb4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/owl.carousel.min-0e01a8e2932a5e2a9335c446be35415f2111df71b4f6f9d1a2dad01fada4ffb4.js.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/product-e3d53c8ba5a4faf8f381b407a910524a60d667ccf7ea179943ff479aca0fbca6.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/product-e3d53c8ba5a4faf8f381b407a910524a60d667ccf7ea179943ff479aca0fbca6.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/variables-b81c415d36377521d84d6ec433a7f9dcb58e2c8cf25ae71bf914adfc661eaff2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/precompiled_assets/variables-b81c415d36377521d84d6ec433a7f9dcb58e2c8cf25ae71bf914adfc661eaff2.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/snapshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/cart.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/default.manifest.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/home.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/owl.carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/product.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/stylesheets/variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_first_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_gap.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_last_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_next_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_paginator.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/kaminari/twitter-bootstrap-3/_prev_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/address/_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_address.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_address.html.sublime-workspace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_confirm.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_delivery.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_new_user.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_payment.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/_summary.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/payment/_check.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/payment/_gateway.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/payment/_storecredit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/checkout/registration.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/content/cvv.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/content/test.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/home/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/layouts/spree_application.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/_adjustment_row.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/_adjustments.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/_line_item.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/orders/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_cart_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_promotions.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_properties.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_taxons.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/_thumbnails.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/products/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_address.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_error_messages.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_filters.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_flashes.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_footer.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_google_add_items.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_google_analytics.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_google_checkout.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_google_purchase.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_head.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_header.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_link_to_account.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_link_to_cart.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_login.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_login_bar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_main_nav_bar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_nav_bar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_order_details.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_payment.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_products.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_search.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_shipment_tracking.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_sidebar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_taxonomies.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_translations.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/_user_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/forbidden.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/trackers/segment/_initializer.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/trackers/segment/_order_complete.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/shared/unauthorized.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/store/cart_link.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/taxons/_taxon.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/taxons/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_mailer/confirmation_instructions.text.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_mailer/reset_password_instructions.text.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_passwords/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_passwords/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_registrations/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/user_sessions/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/users/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-CrownTheme-3-3-bump/views/spree/users/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-apache.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-bag.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-bag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-clothing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-mug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-rails.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-ruby.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/category-spree.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/home-slider1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/home-slider2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/images/home-slider3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/javascripts/default.manifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/javascripts/lib/jquery.bxslider-rahisified.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/javascripts/mobile-views.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/javascripts/sliders.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/meta_info.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/.sprockets-manifest-4d444a662b78481941ae91cd7832c289.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-apache-c8d1760535b49f93fba75fbf8158d78bb508fae74efce34b2505417f4a090cbb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-bag-bb8d8a40c6fdaed54f46704eb7c8e774aff0cbb3ede05a3933dccd7e3d52b26d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-bag-e99ffb2ede40698bb2b9f9df01d8576809420171b916aae167c0b4446247ebaf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-clothing-6e421280fb6dfd62e0302b9fb6d7a21bdad42f7a3e5fa309b1ab155df10cfa55.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-mug-b55a268531c8238a7dc538cfac1b6613cfcede7d9f0fbba2802aa3810a0f1cd6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-rails-6e74a38d64f03cbaf88e60e33a96b671d6978f549a250db55a1e5fe137eb3401.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-ruby-ac5e4677779446620e8439281a739c23e47cdb3155a44cd2043830b4397beac1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/category-spree-c026a413886798de57b0c116968586c1d4189f167310c75f0ded1923cccf46e3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/fonts-ce0e8502b4ef48020260ed9ce2a9599129db28cbc47908b99c8c8ed14ec53f00.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/fonts-ce0e8502b4ef48020260ed9ce2a9599129db28cbc47908b99c8c8ed14ec53f00.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/global-e68facf7d3ce0e4c8454ff5535eeb847ff349d84ba9abdba9a4f93ad5eb485e4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/global-e68facf7d3ce0e4c8454ff5535eeb847ff349d84ba9abdba9a4f93ad5eb485e4.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/variables-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/common/variables-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/footer-87d5776c4a3cbf86b1582bcc3dbe74a8eb5d27c921b5c137f1677c7a77dacb63.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/footer-87d5776c4a3cbf86b1582bcc3dbe74a8eb5d27c921b5c137f1677c7a77dacb63.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/header-4844327bcced9eaac0e1133d0233da952d5d681d84823e8ab56c20d2469507ef.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/header-4844327bcced9eaac0e1133d0233da952d5d681d84823e8ab56c20d2469507ef.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/product-block-2cd7e0c31ef5d4167bdd916b53390917f9f2389097f288f5fc305f4ff7491751.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/components/product-block-2cd7e0c31ef5d4167bdd916b53390917f9f2389097f288f5fc305f4ff7491751.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/default.manifest-bd63f3289793afbd0c8eec135901826df1e7879acbd567f3bc424f9641fe3e75.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/default.manifest-bd63f3289793afbd0c8eec135901826df1e7879acbd567f3bc424f9641fe3e75.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/default.manifest-f6f156f6d05b70474b68f581550f69c34868c12340c7e41b77fa697810e33fa5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/default.manifest-f6f156f6d05b70474b68f581550f69c34868c12340c7e41b77fa697810e33fa5.js.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/home-slider1-2e237b9bd482a16fff23ffc9df6029c5e8627e25a3d4139c25230281ebcc3ece.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/home-slider2-99a17de3320c884fb0deb6d157d39b4ee53277d272c7dd8ea2b3050c0f8bcfdb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/home-slider3-5aba7a3cdc804909c01efc20b7bb32179195bc34dc7edd690ee3da578b80bc03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/font-awesome.min-306130e6ba08a261d693df60443a670ca53a7a541654c4138090053ccf0a94a2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/font-awesome.min-306130e6ba08a261d693df60443a670ca53a7a541654c4138090053ccf0a94a2.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/jquery.bxslider-6d2307eb9859c53036d63e44adf1175337d36f6465ad6cad11851442502c6089.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/jquery.bxslider-6d2307eb9859c53036d63e44adf1175337d36f6465ad6cad11851442502c6089.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/jquery.bxslider-rahisified-d5be85adb62032c21266aefa96e5c8cb9c46a6eada7bae3952dc8a9801586137.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/lib/jquery.bxslider-rahisified-d5be85adb62032c21266aefa96e5c8cb9c46a6eada7bae3952dc8a9801586137.js.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/mobile-views-6adc03302790f9c667a835149614ed16730e4e8d9138b211cd2df3ac8a3d51de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/mobile-views-6adc03302790f9c667a835149614ed16730e4e8d9138b211cd2df3ac8a3d51de.js.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/cart-c76a08c7850cd6da8493e020be97951feaca63d88f6984b4daf66ab685dfe12a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/cart-c76a08c7850cd6da8493e020be97951feaca63d88f6984b4daf66ab685dfe12a.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/checkout-199bd27045519d065f87e28a90daaa1da0882fa052bce71a00610f9328e70061.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/checkout-199bd27045519d065f87e28a90daaa1da0882fa052bce71a00610f9328e70061.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/home-6abb667a7fe180bd34e945b3c0ece023daf6d442232e9c07c071962487687d86.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/home-6abb667a7fe180bd34e945b3c0ece023daf6d442232e9c07c071962487687d86.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/product-details-7f5d419a30592d5915dc3033ea68ba60af10da043fefc54b8652b83ca10cee96.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/product-details-7f5d419a30592d5915dc3033ea68ba60af10da043fefc54b8652b83ca10cee96.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/users-e7fbcf30318bf7c278999329fb65f3671e9a5770c20aa670df4e8bb8a02fee4f.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/pages/users-e7fbcf30318bf7c278999329fb65f3671e9a5770c20aa670df4e8bb8a02fee4f.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/sliders-0f63f9f8cb86526d97a59fb0972917d7e8703920c3395c683e3a4670be710465.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/precompiled_assets/sliders-0f63f9f8cb86526d97a59fb0972917d7e8703920c3395c683e3a4670be710465.js.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/snapshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/common/fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/common/global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/common/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/common/variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/components/footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/components/header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/components/product-block.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/default.manifest.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/lib/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/lib/jquery.bxslider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/cart.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/checkout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/home.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/product-details.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/stylesheets/pages/users.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_first_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_gap.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_last_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_next_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_paginator.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/kaminari/twitter-bootstrap-3/_prev_page.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/address/_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_address.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_confirm.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_delivery.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_new_user.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_payment.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/_summary.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/payment/_check.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/payment/_gateway.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/payment/_storecredit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/checkout/registration.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/content/cvv.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/content/test.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/home/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/layouts/spree_application.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/_adjustment_row.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/_adjustments.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/_line_item.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/orders/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/payments/_payment.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_cart_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_promotions.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_properties.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_taxons.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/_thumbnails.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/index.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/products/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_address.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_error_messages.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_filters.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_flashes.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_footer.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_google_add_items.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_google_analytics.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_google_checkout.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_google_purchase.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_head.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_header.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_home_banners.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_home_slider.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_homepage_brand.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_link_to_account.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_link_to_cart.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_login.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_login_bar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_main_nav_bar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_nav_bar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_order_details.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_products.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_search.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_shipment_tracking.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_sidebar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_social.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_taxonomies.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_translations.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/_user_form.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/forbidden.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/trackers/segment/_initializer.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/trackers/segment/_order_complete.js.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/shared/unauthorized.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/store/cart_link.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/taxons/_taxon.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/taxons/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_mailer/confirmation_instructions.text.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_mailer/reset_password_instructions.text.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_passwords/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_passwords/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_registrations/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/user_sessions/new.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/users/edit.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-EStore-3-3-stable/views/spree/users/show.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/.sprockets-manifest-8db785bb3296679494c2ef3821e72825.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/FontAwesome-444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5.otf.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/FontAwesome-444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5.otf.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/base-7ceb6cc58c6938ee9a1ea5a7179271043389741b9fcdccf24591b3e64d809a37.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/base-7ceb6cc58c6938ee9a1ea5a7179271043389741b9fcdccf24591b3e64d809a37.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/cart-987a23342a261237e34be54d4607e7503e42fec4dd49533259b94ee37ea11844.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/cart-987a23342a261237e34be54d4607e7503e42fec4dd49533259b94ee37ea11844.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/custom-01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/custom-01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b.js.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/default.manifest-a363895cd7b5e675dcb4dce50f304259b22ca9fb4a6b8d1dfab61b14028e5b11.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/default.manifest-a363895cd7b5e675dcb4dce50f304259b22ca9fb4a6b8d1dfab61b14028e5b11.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/default.manifest-e99d5e0bb94541dc182f16159617ba3d9feef8c8e85cbe159a889b70116aca92.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/default.manifest-e99d5e0bb94541dc182f16159617ba3d9feef8c8e85cbe159a889b70116aca92.js.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/font-awesome.min-848798fd0ba99e187df7ff0d4d6ecf742fb9d58cad79ca47b7946743ecbfa9aa.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/font-awesome.min-848798fd0ba99e187df7ff0d4d6ecf742fb9d58cad79ca47b7946743ecbfa9aa.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979.eot.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/fontawesome-webfont-ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4.svg.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/footer-acc38432a2882d79927823f9a5cb26454420c115474e39fae69cb4d9250d0cce.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/footer-acc38432a2882d79927823f9a5cb26454420c115474e39fae69cb4d9250d0cce.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/header-1eca4c6334f19e886381e882f2123ccb92a2267dc4482c9e0eaa81f0fe64a948.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/header-1eca4c6334f19e886381e882f2123ccb92a2267dc4482c9e0eaa81f0fe64a948.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/mixins-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/product-f0a6e5fbeaa930fe39fb9da4c5afa99240e51b9504487ec682d658afca1c71aa.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/product-f0a6e5fbeaa930fe39fb9da4c5afa99240e51b9504487ec682d658afca1c71aa.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/variables-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/precompiled_assets/variables-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/layouts/spree_application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/layouts/spree_application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/orders/_line_item.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/orders/_line_item.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_taxons.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_taxons.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_thumbnails.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_thumbnails.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/README.rdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/FlipkartApi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/created.rid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/arrow_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/brick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/brick_link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/bug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/bullet_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/bullet_toggle_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/bullet_toggle_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/loadingAnimation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/macFFBgHack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/package.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/page_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/page_white_text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/page_white_width.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/plugin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/ruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/tag_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/tag_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/wrench.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/wrench_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/images/zoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/darkfish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/search_index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/js/searcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/rdoc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/doc/table_of_contents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/examples/categories.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/examples/products_by_category.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/flipkart_api.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/lib/flipkart_api.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/lib/flipkart_delta_api.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flipkart_api/spec/flipkart_api_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/system/spree/themes/theme-OnlineStore-3-3-bump.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/system/spree/themes/theme-OnlineStore-3-3-bump.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.generators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.rakeTasks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.rvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/Versionfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/admin/spree_amazon_affiliate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/javascripts/store/spree_amazon_affiliate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/admin/spree_amazon_affiliate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/stylesheets/store/spree_amazon_affiliate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/assets/templates/Amazon Import Template.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_imports_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_products_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/amazon_taxons_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_imports_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_products_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/controllers/spree/admin/flipkart_taxons_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/helpers/amazon_affiliate_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/asset.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/base.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/image.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/import.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/product_collection.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/taxon.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/variant.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/amazon/variant_collection.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/asset.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/base.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/image.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/import.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/product.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/product_collection.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/taxon.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/variant.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/flipkart/variant_collection.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/models/spree/product_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/add_link_to_mark_product_as_favorite.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/amazon_admin_tab.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/replace_add_to_cart_button.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/replace_variant_quantity.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/replace_wishlist_add_to_cart_button.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_imports/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_products/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/amazon_taxons/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_imports/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_products/search_products.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/flipkart_products.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/flipkart_taxons/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_amazon_product_search.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_amazon_sub_menu.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/admin/shared/_flipkart_product_search.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/products/_add_to_cart_button.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/app/views/spree/wishlists/_add_to_cart_button.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/config/amazon_affiliate.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20111011000000_add_amazon_id_to_product.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/db/migrate/20120604005532_create_imports.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/amazon/ecs.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/generators/spree_amazon_affiliate/install/install_generator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree/core/search/amazon.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree/core/search/flipkart.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_amazon_affiliate.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_amazon_affiliate/engine.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/base.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/product.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/spree_ecs/taxon.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/lib/tasks/spree_amazon_affiliate.rake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/script/rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/fixtures/invalid_template.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/fixtures/valid_template.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/helpers/amazon_affiliate_helper_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/lib/spree/core/search/amazon_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/asset_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/image_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/import_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/product_collection_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/product_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/models/spree/amazon/taxon_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/requests/admin/amazon_imports/import_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/requests/admin/amazon_products/product_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/requests/admin/amazon_taxons/taxon_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_amazon_affiliate/spree_amazon_affiliate.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/Appraisals" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/admin/spree_favorite_products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/spree/backend/spree_favorite_products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/spree/frontend/favoritable_product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/spree/frontend/spree_favorite_products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/javascripts/store/spree_favorite_products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/stylesheets/admin/spree_favorite_products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/stylesheets/spree/backend/spree_favorite_products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/stylesheets/spree/frontend/spree_favorite_products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/assets/stylesheets/store/spree_favorite_products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/admin/favorite_products_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/admin/favorite_variants_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/admin/products_controller_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/admin/users_controller_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/controllers/spree/favorite_products_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/app_configuration_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/favorite.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/product_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/user_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/models/spree/variant_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_favorite_products_per_page_configuration.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_favorite_products_to_products_tab.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_favorite_users_tab_to_products.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_favorite_variants_to_product_tab.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_javascript_to_product_show.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_link_to_mark_product_as_favorite.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_link_to_users_favorite_products.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/add_save_for_later_to_cart.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/overrides/addd_favorite_products_tab_to_users.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/_favorited_by_users.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/_table.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/_users.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_products/users.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/favorite_variants/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/products/favorite_users.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/admin/users/favorite_products.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/_cart_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/create.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/destroy.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/get_favoritable_value.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/not_found.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/config/locales/bg.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/config/locales/pl.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20130705080641_create_table_favorites.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20130710105100_rename_favorites_to_spree_favorites.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20160304152800_add_favorites_user_counts_to_product.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20180508000000_remove_indexes_from_spree_favorites.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20180508074324_add_polymorphic_fields_to_spree_favorites.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20180508074838_remove_product_id_from_spree_favorites.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/db/migrate/20180508095945_add_favorites_user_count_to_variant.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/.bundle/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/spree_3_2.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/spree_3_3.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/spree_3_4.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/gemfiles/spree_master.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/lib/generators/spree_favorite_products/install/install_generator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/lib/spree_favorite_products.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/lib/spree_favorite_products/engine.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/lib/spree_favorite_products/factories.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/script/rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/admin/favorite_products_controller_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/admin/favorite_variants_controller_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/admin/products_controller_decorator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/admin/users_controller_decorator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/controllers/spree/favorite_products_controller_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/app_configuration_decorator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/favorite_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/product_decorator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/user_decorator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/models/spree/variant_decorator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/support/database_cleaner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spec/support/simple_cov.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_favorite_products/spree_favorite_products.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/.generators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/.hound.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/.rakeTasks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/.rubocop.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/images/social/delicious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/backend/social_share.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/backend/spree_social_products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/javascripts/spree/frontend/spree_social_products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/stylesheets/spree/backend/social_share.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/stylesheets/spree/backend/spree_social_products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/stylesheets/spree/frontend/social_share.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/assets/stylesheets/spree/frontend/spree_social_products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/controllers/spree/admin/social_settings_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/helpers/spree/base_helper_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/overrides/add_fb_script_to_header.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/overrides/add_social_buttons_to_products.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/overrides/admin_configuration_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/admin/social_settings/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_fb_script.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social_buttons.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_delicious.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_facebook.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_google_plus.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_pinterest.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_reddit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_tumblr.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/app/views/spree/social/_twitter.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/bin/rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/config/locales/de.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/config/locales/es.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/config/locales/sv.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/generators/spree_social_products/install/install_generator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/spree/social_setting.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/spree_social_products.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/spree_social_products/engine.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/lib/spree_social_products/version.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/controllers/spree/admin/social_settings_controller_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/features/spree/admin/social_settings_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/features/spree/social_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/helpers/spree/base_helper_decorator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/lib/spree/social_setting_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/support/capybara.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/support/database_cleaner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/support/factory_girl.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spec/support/spree.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_social_products/spree_social_products.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/.hound.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/.rakeTasks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/.rubocop.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/Appraisals" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/Guardfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/assets/javascripts/spree/frontend/spree_wishlist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/assets/javascripts/spree/frontend/wishlist.js.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/assets/stylesheets/spree/frontend/spree_wishlist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/assets/stylesheets/spree/frontend/wishlist.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/controllers/spree/wished_products_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/controllers/spree/wishlists_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/models/spree/user_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/models/spree/variant_decorator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/models/spree/wished_product.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/models/spree/wishlist.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/overrides/add_wish_to_cart_form.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/overrides/add_wishlists_to_account_my_orders.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/products/_wishlist_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/users/_wishlists.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/_accessibility.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/_mail_to_friend.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/app/views/spree/wishlists/update.js.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/de.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/es.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/fr.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/it.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/pl.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/pt-BR.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/pt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/ro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/ru.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/locales/sv.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20091020182940_create_wishlists.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20091020183520_create_wished_products.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20111130204731_prefix_wishlist_tables_with_spree.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20140403013413_remove_wished_products_for_deleted_variants.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20140422003308_add_index_to_wishlists.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/db/migrate/20150805204533_add_quantity_to_wished_products.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/.bundle/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_3_1.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_3_2.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_3_3.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_3_4.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/gemfiles/spree_master.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/generators/spree_wishlist/install/install_generator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/spree_wishlist.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/spree_wishlist/engine.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/spree_wishlist/version.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/lib/wishlist_ability.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/controllers/spree/wished_products_controller_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/controllers/spree/wishlists_controller_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/factories/user_with_wishlist_factory.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/factories/wished_product_factory.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/factories/wishlist_factory.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/features/spree/wished_product_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/features/spree/wishlist_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/lib/wishlist_ability_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/models/spree/wished_product_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/models/spree/wishlist_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/capybara.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/database_cleaner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/factory_bot.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/spree.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spec/support/wishlist_ability_helpers.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spree_wishlist/spree_wishlist.gemspec" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -355,9 +388,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1534771510208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
+    <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1534777940042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.coverage" NAME="Development: lovcart Coverage Results" MODIFIED="1533660806423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
-    <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.rcov" NAME="Production: lovcart Coverage Results" MODIFIED="1534172168625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
+    <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.rcov" NAME="Production: lovcart Coverage Results" MODIFIED="1534786075302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.coverage" NAME="Production: lovcart Coverage Results" MODIFIED="1533647490652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -413,7 +446,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="223" />
+          <entry key="Gemfile" value="350" />
           <entry key="erb" value="1644" />
           <entry key="gemspec" value="69" />
           <entry key="js" value="30" />
@@ -425,7 +458,7 @@
         <counts>
           <entry key="JavaScript" value="30" />
           <entry key="RHTML" value="1644" />
-          <entry key="Ruby" value="6620" />
+          <entry key="Ruby" value="6747" />
           <entry key="YAML" value="48" />
         </counts>
       </usages-collector>
@@ -436,34 +469,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_fb_script.html.erb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spree_social_products/app/views/spree/shared/_social.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+            <state relative-caret-position="93">
+              <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -565,8 +575,8 @@
         <option value="$PROJECT_DIR$/spree_amazon_affiliate/app/overrides/add_link_to_mark_product_as_favorite.rb" />
         <option value="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/destroy.js.erb" />
         <option value="$PROJECT_DIR$/spree_favorite_products/app/views/spree/favorite_products/create.js.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -615,47 +625,7 @@
             <path>
               <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
-              <item name="theme-OnlineStore-3-3-bump" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
-              <item name="theme-OnlineStore-3-3-bump" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
-              <item name="theme-OnlineStore-3-3-bump" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="spree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="vinsol_spree_themes" type="462c0819:PsiDirectoryNode" />
-              <item name="theme-OnlineStore-3-3-bump" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="spree" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -682,7 +652,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Rails.Development: lovcart">
+  <component name="RunManager" selected="Rails.Production: lovcart">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -733,15 +703,16 @@
       <workItem from="1534473516627" duration="39403000" />
       <workItem from="1534654099514" duration="28054000" />
       <workItem from="1534692639719" duration="3864000" />
-      <workItem from="1534770363192" duration="1176000" />
+      <workItem from="1534770363192" duration="11782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245513000" />
+    <option name="totallyTimeSpent" value="256119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20830008" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -756,9 +727,9 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" weight="0.49509802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" visible="true" weight="0.49509802" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5051876" side_tool="true" weight="0.3970588" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49960095" visible="true" weight="0.47549018" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49960095" weight="0.47549018" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1095,17 +1066,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="153">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_products.html.erb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+        <state relative-caret-position="93">
+          <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
         </state>
       </provider>
     </entry>

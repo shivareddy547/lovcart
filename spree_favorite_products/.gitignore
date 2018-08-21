@@ -1,8 +1,0 @@
-/spec/dummy
-/coverage
-.DS_STORE
-.ruby-version
-Gemfile.lock
-.byebug_history
-.ruby-gemset
-gemfiles/*.gemfile.lock

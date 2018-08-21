@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/lovcart.iml" filepath="$PROJECT_DIR$/.idea/lovcart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spree_amazon_affiliate.iml" filepath="$PROJECT_DIR$/.idea/modules/spree_amazon_affiliate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spree_social_products.iml" filepath="$PROJECT_DIR$/.idea/modules/spree_social_products.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spree_wishlist.iml" filepath="$PROJECT_DIR$/.idea/modules/spree_wishlist.iml" />
     </modules>
   </component>
 </project>

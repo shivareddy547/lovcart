@@ -22,6 +22,39 @@ GIT
       rbnacl-libsodium (~> 1.0)
 
 GIT
+  remote: https://github.com/shivareddy547/flipkart_api.git
+  revision: afefd39c0bdde942bae4b65bd098afa246002e9b
+  specs:
+    flipkart_api (0.1.0)
+      rest-client (= 2.0.2)
+
+GIT
+  remote: https://github.com/shivareddy547/spree_amazon_affiliate.git
+  revision: 7e08d8b5541b20bd698b8a363d945404ba010161
+  specs:
+    spree_amazon_affiliate (1.0.0.beta)
+      amazon-ecs
+      htmlentities
+      json
+      spree_core (>= 3.1.0, < 4.0)
+
+GIT
+  remote: https://github.com/shivareddy547/spree_favorite_products.git
+  revision: b2ae7a7c03082b0251b9ecf8902381dae87b53cc
+  specs:
+    spree_favorite_products (3.3.0)
+      spree_core (>= 3.2.0, < 4.0.0)
+      spree_extension (~> 0.0.5)
+
+GIT
+  remote: https://github.com/shivareddy547/spree_social_products.git
+  revision: 98b6c1c358906dd3d53af7b776252a4275c9d25f
+  specs:
+    spree_social_products (2.0.0)
+      spree_auth_devise (>= 3.1.0, < 4.0)
+      spree_core (>= 3.1.0, < 4.0)
+
+GIT
   remote: https://github.com/spree-contrib/spree_analytics_trackers.git
   revision: c891a9f51cb13d9316bb1197d9c2f8034aab6cf1
   specs:
@@ -63,41 +96,6 @@ GIT
       spree_core (>= 3.2.0, < 4.0)
       sprockets-helpers (~> 1.2.1)
       state_machine (~> 1.2.0)
-
-PATH
-  remote: flipkart_api
-  specs:
-    flipkart_api (0.1.0)
-      rest-client (= 2.0.2)
-
-PATH
-  remote: spree_amazon_affiliate
-  specs:
-    spree_amazon_affiliate (1.0.0.beta)
-      amazon-ecs
-      htmlentities
-      json
-      spree_core (>= 3.1.0, < 4.0)
-
-PATH
-  remote: spree_favorite_products
-  specs:
-    spree_favorite_products (3.3.0)
-      spree_core (>= 3.2.0, < 4.0.0)
-      spree_extension (~> 0.0.5)
-
-PATH
-  remote: spree_social_products
-  specs:
-    spree_social_products (2.0.0)
-      spree_auth_devise (>= 3.1.0, < 4.0)
-      spree_core (>= 3.1.0, < 4.0)
-
-PATH
-  remote: spree_wishlist
-  specs:
-    spree_wishlist (2.2.0)
-      spree_core (>= 3.1.0, < 4.0)
 
 GEM
   remote: https://rubygems.org/
@@ -306,6 +304,7 @@ GEM
     multi_json (1.13.1)
     multi_xml (0.6.0)
     multipart-post (2.0.0)
+    mysql2 (0.5.2)
     netrc (0.11.0)
     nio4r (2.3.1)
     nokogiri (1.8.4)
@@ -351,7 +350,6 @@ GEM
       terrapin (~> 0.6.0)
     paranoia (2.4.1)
       activerecord (>= 4.0, < 5.3)
-    pg (1.0.0)
     polyamorous (1.3.3)
       activerecord (>= 3.0)
     polyglot (0.3.5)
@@ -581,7 +579,7 @@ DEPENDENCIES
   json
   listen (>= 3.0.5, < 3.2)
   mini_magick (~> 4.8)
-  pg
+  mysql2 (>= 0.4.4, < 0.6.0)
   pry
   puma (~> 3.11)
   rails (~> 5.2.0)
@@ -597,7 +595,6 @@ DEPENDENCIES
   spree_reffiliate!
   spree_social!
   spree_social_products!
-  spree_wishlist!
   sprockets-helpers (~> 1.2.1)
   turbolinks (~> 5)
   tzinfo-data
