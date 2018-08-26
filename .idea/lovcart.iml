@@ -282,10 +282,10 @@
     <orderEntry type="library" scope="PROVIDED" name="spree_frontend (v3.6.2, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_gateway (v3.3.3, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_opengraph (v0.1.0.beta1@1ea521, RVM: ruby-2.4.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_product_hover_zoom (v1.0.3@95dbba, RVM: ruby-2.4.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_product_hover_zoom (v1.0.3@84d462, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_reffiliate (v3.2.0.alpha@a3dd41, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_sample (v3.6.2, RVM: ruby-2.4.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="spree_slider (v3.3.0@534fed, RVM: ruby-2.4.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_slider (v3.3.0@0d25aa, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_social (v3.3.1@3c8187, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_social_products (v2.0.0@98b6c1, RVM: ruby-2.4.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_wishlist (v2.2.0@cd9647, RVM: ruby-2.4.0) [gem]" level="application" />

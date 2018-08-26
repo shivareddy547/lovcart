@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/_image.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_taxonomies_menu.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/lovcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lovcart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/spree/shared/_sidebar.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/system/spree/themes/theme-OnlineStore-3-3-bump.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/system/spree/themes/theme-OnlineStore-3-3-bump.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/spree/frontend/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/spree/frontend/all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/social_share_button.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/locales/social_share_button.en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/locales/social_share_button.zh-CN.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/locales/social_share_button.zh-TW.yml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -33,7 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1535259397209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
+    <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.rcov" NAME="Development: lovcart Coverage Results" MODIFIED="1535281333839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Development__lovcart.coverage" NAME="Development: lovcart Coverage Results" MODIFIED="1533660806423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.rcov" NAME="Production: lovcart Coverage Results" MODIFIED="1534943821271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
     <SUITE FILE_PATH="coverage/lovcart@Production__lovcart.coverage" NAME="Production: lovcart Coverage Results" MODIFIED="1533647490652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lovcart" />
@@ -168,8 +160,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -183,20 +175,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/social_share_button.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+            <state relative-caret-position="121">
+              <caret line="143" column="27" selection-start-line="143" selection-start-column="27" selection-end-line="143" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -242,7 +225,6 @@
       <find>add_link_to_mark_product_as_favorite</find>
       <find>hover-content</find>
       <find>spree_favorite_products</find>
-      <find>pg</find>
       <find>attachment</find>
       <find>main_</find>
       <find>link</find>
@@ -253,6 +235,7 @@
       <find>@product.images.first.attachment</find>
       <find>#641b1b</find>
       <find>spree/shared/taxo</find>
+      <find>pg</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -456,11 +439,6 @@
               <item name="spree" type="462c0819:PsiDirectoryNode" />
               <item name="shared" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lovcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovcart" type="462c0819:PsiDirectoryNode" />
-              <item name="spree_essential_menus" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -549,12 +527,12 @@
       <workItem from="1534943760593" duration="11232000" />
       <workItem from="1535118183602" duration="12673000" />
       <workItem from="1535190469467" duration="20231000" />
-      <workItem from="1535257567104" duration="2537000" />
+      <workItem from="1535257567104" duration="8780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="312398000" />
+    <option name="totallyTimeSpent" value="318641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -573,9 +551,9 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" visible="true" weight="0.49183005" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49481246" weight="0.49183005" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5051876" side_tool="true" weight="0.3970588" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49960095" weight="0.498366" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49960095" visible="true" weight="0.498366" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -892,13 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/social-share-button-0.1.10/lib/social_share_button/helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -913,10 +884,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/products/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+        <state relative-caret-position="121">
+          <caret line="143" column="27" selection-start-line="143" selection-start-column="27" selection-end-line="143" selection-end-column="27" />
         </state>
       </provider>
     </entry>

@@ -141,4 +141,4 @@ gem 'spree_slider', :github => "shivareddy547/spree_slider"
 gem "spree_product_hover_zoom", :github => "shivareddy547/spree_product_hover_zoom"
 
 # gem 'spree_essential_menus', :path => 'spree_essential_menus'
-gem 'social-share-button', '~> 0.1.6'
+# gem 'social-share-button', '~> 0.1.6'

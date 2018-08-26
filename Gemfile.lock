@@ -458,9 +458,6 @@ GEM
     selenium-webdriver (3.14.0)
       childprocess (~> 0.5)
       rubyzip (~> 1.2)
-    social-share-button (0.1.10)
-      coffee-rails
-      sass-rails
     spree (3.6.2)
       spree_api (= 3.6.2)
       spree_backend (= 3.6.2)
@@ -610,7 +607,6 @@ DEPENDENCIES
   rails (~> 5.2.0)
   sass-rails (~> 5.0)
   selenium-webdriver
-  social-share-button (~> 0.1.6)
   spree (~> 3.6.1)
   spree_amazon_affiliate!
   spree_analytics_trackers!
