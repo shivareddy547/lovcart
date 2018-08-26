@@ -1,0 +1,189 @@
+<% max_level = Spree::Config[:max_level_in_taxons_menu] || 1 %>
+<nav id="taxonomies" class="sidebar-item" data-hook>
+  <%# @taxonomies.each do |taxonomy| %>
+  <%# cache [I18n.locale, taxonomy, max_level, @taxon] do %>
+  <%# if taxonomy.root.children.any? %>
+  <!--        <h3 class='taxonomy-root'><%#= Spree.t(:shop_by_taxonomy, taxonomy: taxonomy.name) %></h3>-->
+  <%#= taxons_tree(taxonomy.root, @taxon, max_level) %>
+  <%# end %>
+  <%# end %>
+  <%# end %>
+<% @taxonomies = Spree::Taxonomy.find_by_name("Categories").taxons.first.children %>
+  <div id="divMenu">
+
+    <ul>
+      <% if @taxonomies.present?  %>
+<%@taxonomies.each do |each_tax| %>
+        <li>
+<!--          <a href="#"><%#=each_tax.name %>-->
+<!--          </a>-->
+          <%= link_to(each_tax.name, seo_url(each_tax), class: "") %>
+          <% if each_tax.children.present?  %>
+            <ul>
+
+
+          <% each_tax.children.each do |each_ch| %>
+                <li>
+
+<!--                  <a href="<%#seo_url(each_ch) %>"><%#=each_ch.name %></a>-->
+                <%= link_to(each_ch.name, seo_url(each_ch), class: "") %>
+                </li>
+
+
+
+
+            <% end %>
+            </ul>
+          <% end %>
+<% end  %>
+      <% end  %>
+
+
+    </ul>
+
+
+
+
+
+
+  </div>
+</nav>
+
+<style type="text/css">
+
+  #divMenu, ul, li, li li {
+
+    margin: 0;
+
+    padding: 0;
+
+  }
+
+
+
+  /*#divMenu {*/
+
+  /*width: 150px;*/
+
+  /*height: 27px;*/
+
+  /*}*/
+
+
+
+  #divMenu ul
+
+  {
+
+    /*line-height: 25px;*/
+
+  }
+
+
+
+  #divMenu li {
+
+    list-style: none;
+
+    position: relative;
+
+    /*background: #641b1b;*/
+
+  }
+
+
+
+  #divMenu li li {
+
+    list-style: none;
+
+    position: relative;
+
+    background: #222;
+
+    left: 148px;
+
+    /*top: -27px;*/
+    top: -26px;
+    /*left: 10px;*/
+
+  }
+
+
+
+
+
+  #divMenu ul li a {
+
+    /*width: 148px;*/
+
+    /*height: 25px;*/
+
+    display: block;
+
+    text-decoration: none;
+
+    text-align: left;
+
+    /*font-family: Georgia,'Times New Roman',serif;*/
+
+    /*color:#ffffff;*/
+
+    /*border:1px solid #eee;*/
+
+  }
+
+
+
+  #divMenu ul ul {
+
+    position: absolute;
+
+    visibility: hidden;
+
+    /*top: 27px;*/
+    top: 19px;
+    left: 10px;
+
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    list-style: none;
+    font-size: 14px;
+    text-align: left;
+
+  }
+
+
+
+  #divMenu ul li:hover ul {
+
+    visibility: visible;
+
+  }
+
+
+
+  #divMenu li:hover {
+
+    background-color: #945c7d;
+
+  }
+
+
+
+  #divMenu ul li:hover ul li a:hover {
+
+    /*background-color: #945c7d;*/
+
+  }
+
+
+
+  #divMenu a:hover {
+
+    /*font-weight: bold;*/
+
+  }
+
+</style>

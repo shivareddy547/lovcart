@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spree_product_hover_zoom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spree_slider" vcs="Git" />
   </component>
 </project>

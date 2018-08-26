@@ -6,8 +6,8 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-# gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'pg'
+gem 'mysql2', '>= 0.4.4', '< 0.6.0'
+# gem 'pg'
 
 
 
@@ -132,3 +132,13 @@ gem 'base64_token' , :github=>"kaeuferportal/base64_token"
 gem 'dalli'
 gem 'spree_favorite_products',:github=>'shivareddy547/spree_favorite_products'
 # gem 'spree_favorite_products',:github=>'vinsol-spree-contrib/spree_favorite_products'
+#
+# gem 'spree_slider', github: 'spree-contrib/spree_slider'
+gem 'spree_slider', :github => "shivareddy547/spree_slider"
+
+# gem 'dynamic_dropdown_menu' , :path=>"dynamic_dropdown_menu"
+
+gem "spree_product_hover_zoom", :github => "shivareddy547/spree_product_hover_zoom"
+
+# gem 'spree_essential_menus', :path => 'spree_essential_menus'
+gem 'social-share-button', '~> 0.1.6'
