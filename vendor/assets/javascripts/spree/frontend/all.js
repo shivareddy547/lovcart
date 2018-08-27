@@ -19,7 +19,6 @@
 //= require store/spree_favorite_products
 
 //= require spree/frontend/spree_favorite_products
-//= require spree/frontend/spree_wishlist
 //= require drift.min
 //= require luminous
 //= require spree/frontend/spree_product_hover_zoom
