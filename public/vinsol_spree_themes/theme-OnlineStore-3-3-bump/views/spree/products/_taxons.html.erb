@@ -9,9 +9,7 @@
           <% if product.images.present? %>
             <%#= image_tag(product.images.last.attachment.url(:large), class:'img-responsive home-pd-img') %>
             <%= image_tag(main_app.url_for(product.images.last.url(:large)), class:'img-responsive home-pd-img') %>
-
-
-        <% end %>
+       <% end %>
           <%= link_to taxon.name, seo_url(taxon), class: 'link-overlay' %>
           <div class="hover-content">
             <div class="hover-content_inner">
