@@ -103,6 +103,12 @@ GIT
       spree_extension
 
 GIT
+  remote: https://github.com/sstephenson/ruby-yui-compressor.git
+  revision: fc914911329bbfaea7f4f5dfb9a8c2c38b8027f9
+  specs:
+    yui-compressor (0.12.0)
+
+GIT
   remote: https://github.com/vinsol-spree-contrib/spree_reffiliate.git
   revision: a3dd41b96fab69a6ee629b15e016e5e865971377
   specs:
@@ -618,6 +624,7 @@ DEPENDENCIES
   spree_social!
   spree_social_products!
   sprockets-helpers (~> 1.2.1)
+  sprockets-rails
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
@@ -625,6 +632,7 @@ DEPENDENCIES
   vinsol_spree_themes!
   web-console (>= 3.3.0)
   xml-to-json
+  yui-compressor!
 
 RUBY VERSION
    ruby 2.4.0p0

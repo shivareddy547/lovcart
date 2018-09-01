@@ -7,13 +7,13 @@ ruby '2.4.0'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
  gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-#gem 'pg'
+# gem 'pg'
 
 
 
 # gem 'cloudinary'
 # gem 'cloudinary', require: false
-gem 'cloudinary', github: "cloudinary/cloudinary_gem"
+# gem 'cloudinary', github: "cloudinary/cloudinary_gem"
 
 gem 'activestorage-cloudinary-service'
 # Use Puma as the app server
@@ -83,6 +83,8 @@ gem 'spree_gateway', '~> 3.3'
 # gem 'recaptcha', :require => 'recaptcha/rails', :github => 'rfc2822/recaptcha', :branch => 'rails3'
 gem 'spree_reffiliate', :github=>"vinsol-spree-contrib/spree_reffiliate"
 gem 'vinsol_spree_themes', github: 'vinsol-spree-contrib/spree_themes', branch: 'master'
+# gem 'vinsol_spree_themes', path: 'spree_themes'
+
 gem 'sprockets-helpers', '~> 1.2.1'
 gem 'heroku-client'
 gem 'heroku'
@@ -148,3 +150,14 @@ gem "spree_product_hover_zoom", :github => "shivareddy547/spree_product_hover_zo
 # gem 'spree_product_assembly', github: 'spree-contrib/spree-product-assembly'
 #
 # gem "asset_sync"
+# 
+# 
+# 
+# gem 'spree_cloudinary', github: 'madhu314/spree_cloudinary'
+gem 'cloudinary' , github: 'cloudinary/cloudinary_gem'
+
+# gem "asset_sync"
+gem 'yui-compressor',:github=>'sstephenson/ruby-yui-compressor'
+# gem 'compass'
+# gem 'compass-rails'
+gem 'sprockets-rails', :require => 'sprockets/railtie'

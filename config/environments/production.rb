@@ -97,6 +97,8 @@ Rails.application.configure do
 
   config.assets.compile = true
   config.assets.digest = true
+  config.public_file_server.enabled =true
+  config.assets.compile = true
 
   config.serve_static_assets = true
   # config.assets.compile = true
