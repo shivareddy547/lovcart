@@ -207,31 +207,31 @@ a.ui-button:active,
 }
 .ui-icon,
 .ui-widget-content .ui-icon {
-	background-image: url(/assets/jquery-ui/ui-icons_444444_256x240-31d988765b4e6f56553c29588c500381dc3e6f0aa2980c8212202e5644aefd5d.png)/*{iconsContent}*/;
+	background-image: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/jquery-ui/ui-icons_444444_256x240-31d988765b4e6f56553c29588c500381dc3e6f0aa2980c8212202e5644aefd5d.png)/*{iconsContent}*/;
 }
 .ui-widget-header .ui-icon {
-	background-image: url(/assets/jquery-ui/ui-icons_444444_256x240-31d988765b4e6f56553c29588c500381dc3e6f0aa2980c8212202e5644aefd5d.png)/*{iconsHeader}*/;
+	background-image: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/jquery-ui/ui-icons_444444_256x240-31d988765b4e6f56553c29588c500381dc3e6f0aa2980c8212202e5644aefd5d.png)/*{iconsHeader}*/;
 }
 .ui-state-hover .ui-icon,
 .ui-state-focus .ui-icon,
 .ui-button:hover .ui-icon,
 .ui-button:focus .ui-icon {
-	background-image: url(/assets/jquery-ui/ui-icons_555555_256x240-32175261daee76c82bb0edf0eea16a56421866fbc31e94f3c1d570aa114502f5.png)/*{iconsHover}*/;
+	background-image: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/jquery-ui/ui-icons_555555_256x240-32175261daee76c82bb0edf0eea16a56421866fbc31e94f3c1d570aa114502f5.png)/*{iconsHover}*/;
 }
 .ui-state-active .ui-icon,
 .ui-button:active .ui-icon {
-	background-image: url(/assets/jquery-ui/ui-icons_ffffff_256x240-350df1b7131037de20e83c5c0f3a41a770d2ac48b5762ea772b3f4a8a7b9d47a.png)/*{iconsActive}*/;
+	background-image: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/jquery-ui/ui-icons_ffffff_256x240-350df1b7131037de20e83c5c0f3a41a770d2ac48b5762ea772b3f4a8a7b9d47a.png)/*{iconsActive}*/;
 }
 .ui-state-highlight .ui-icon,
 .ui-button .ui-state-highlight.ui-icon {
-	background-image: url(/assets/jquery-ui/ui-icons_777620_256x240-0b020fc6e696d88d296e7bb1f61f1eb2ad827848e2c7382a4c3e0999e702dd9b.png)/*{iconsHighlight}*/;
+	background-image: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/jquery-ui/ui-icons_777620_256x240-0b020fc6e696d88d296e7bb1f61f1eb2ad827848e2c7382a4c3e0999e702dd9b.png)/*{iconsHighlight}*/;
 }
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-	background-image: url(/assets/jquery-ui/ui-icons_cc0000_256x240-40985a64b4d5dd213fba27fcd862a1bd1b337a97674f6ff0b9ec20abcee4bc69.png)/*{iconsError}*/;
+	background-image: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/jquery-ui/ui-icons_cc0000_256x240-40985a64b4d5dd213fba27fcd862a1bd1b337a97674f6ff0b9ec20abcee4bc69.png)/*{iconsError}*/;
 }
 .ui-button .ui-icon {
-	background-image: url(/assets/jquery-ui/ui-icons_777777_256x240-faf32007ae120c302213557626e660dd10e711c5dd4f1113d35f26dc05b78d2f.png)/*{iconsDefault}*/;
+	background-image: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/jquery-ui/ui-icons_777777_256x240-faf32007ae120c302213557626e660dd10e711c5dd4f1113d35f26dc05b78d2f.png)/*{iconsDefault}*/;
 }
 
 /* positioning */
@@ -769,7 +769,7 @@ html[dir="rtl"] .select2-container .select2-choice > .select2-chosen {
   font-size: 1px;
   text-decoration: none;
   border: 0;
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) right top no-repeat;
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) right top no-repeat;
   cursor: pointer;
   outline: 0;
 }
@@ -885,7 +885,7 @@ html[dir="rtl"] .select2-container .select2-choice .select2-arrow {
   display: block;
   width: 100%;
   height: 100%;
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 0 1px;
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 0 1px;
 }
 
 /* line 225, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
@@ -920,21 +920,21 @@ html[dir="rtl"] .select2-container .select2-choice .select2-arrow b {
   border-radius: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #fff url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px;
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0;
+  background: #fff url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px;
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat 100% -22px, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0;
 }
 
 /* line 267, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
 html[dir="rtl"] .select2-search input {
   padding: 4px 5px 4px 20px;
-  background: #fff url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px;
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0;
+  background: #fff url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px;
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) no-repeat -37px -22px, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0;
 }
 
 /* line 277, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
@@ -944,11 +944,11 @@ html[dir="rtl"] .select2-search input {
 
 /* line 281, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
 .select2-search input.select2-active {
-  background: #fff url(/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%;
-  background: url(/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
-  background: url(/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url(/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
-  background: url(/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0;
+  background: #fff url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%;
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%, -webkit-gradient(linear, left bottom, left top, color-stop(0.85, #fff), color-stop(0.99, #eee));
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%, -webkit-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%, -moz-linear-gradient(center bottom, #fff 85%, #eee 99%);
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%, linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0;
 }
 
 /* line 289, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
@@ -1163,7 +1163,7 @@ disabled look for disabled choices in the results dropdown
 
 /* line 454, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
 .select2-more-results.select2-active {
-  background: #f4f4f4 url(/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%;
+  background: #f4f4f4 url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100%;
 }
 
 /* line 458, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
@@ -1273,7 +1273,7 @@ html[dir="rtl"] .select2-container-multi .select2-choices li {
 
 /* line 554, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
 .select2-container-multi .select2-choices .select2-search-field input.select2-active {
-  background: #fff url(/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100% !important;
+  background: #fff url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-spinner-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif) no-repeat 100% !important;
 }
 
 /* line 558, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
@@ -1333,7 +1333,7 @@ html[dir="rtl"] .select2-container-multi .select2-choices .select2-search-choice
   top: 4px;
   font-size: 1px;
   outline: none;
-  background: url(/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) right top no-repeat;
+  background: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2-d6b5d8d83dbc18fb8d77c8761d331cd9e5123c9684950bab0406e98a24ac5ae8.png) right top no-repeat;
 }
 
 /* line 616, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/select2-rails-3.5.9.1/vendor/assets/stylesheets/select2.scss */
@@ -1430,7 +1430,7 @@ html[dir="rtl"] .select2-container-multi .select2-search-choice-close {
   .select2-search-choice-close,
   .select2-container .select2-choice abbr,
   .select2-container .select2-choice .select2-arrow b {
-    background-image: url(/assets/select2x2-6fe28d687dc0ed4d96016238c608ba1e7198c9c9accfa0b360b78018b9fb9bc2.png) !important;
+    background-image: url(cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/select2x2-6fe28d687dc0ed4d96016238c608ba1e7198c9c9accfa0b360b78018b9fb9bc2.png) !important;
     background-repeat: no-repeat !important;
     background-size: 60px 40px !important;
   }
@@ -4986,8 +4986,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot");
-  src: url("/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot?#iefix") format("embedded-opentype"), url("/assets/bootstrap/glyphicons-halflings-regular-fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c.woff2") format("woff2"), url("/assets/bootstrap/glyphicons-halflings-regular-a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742.woff") format("woff"), url("/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf") format("truetype"), url("/assets/bootstrap/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg#glyphicons_halflingsregular") format("svg");
+  src: url("cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot");
+  src: url("cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot?#iefix") format("embedded-opentype"), url("cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/bootstrap/glyphicons-halflings-regular-fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c.woff2") format("woff2"), url("cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/bootstrap/glyphicons-halflings-regular-a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742.woff") format("woff"), url("cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf") format("truetype"), url("cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart/assets/bootstrap/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg#glyphicons_halflingsregular") format("svg");
 }
 /* line 24, /home/shivareddy/.rvm/gems/ruby-2.4.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_glyphicons.scss */
 .glyphicon, .icon, .select2-container-multi .select2-choices .select2-search-choice .select2-search-choice-close, #ui-datepicker-div .ui-widget-header .ui-icon.ui-icon-circle-triangle-w, #ui-datepicker-div .ui-widget-header .ui-icon.ui-icon-circle-triangle-e {
@@ -14709,7 +14709,7 @@ Placeholder manifest file.
 the installer will append this file to the app vendored assets here: 'vendor/assets/stylesheets/spree/backend/all.css'
 */
 
-/* line 1, /home/shivareddy/Desktop/projects/lovcart/spree_social_products/app/assets/stylesheets/spree/backend/social_share.scss */
+/* line 1, /home/shivareddy/.rvm/gems/ruby-2.4.0/bundler/gems/spree_social_products-98b6c1c35890/app/assets/stylesheets/spree/backend/social_share.scss */
 #facebook_options {
   display: none;
 }

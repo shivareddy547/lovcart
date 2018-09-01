@@ -6,13 +6,15 @@ ruby '2.4.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
-# gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'pg'
+ gem 'mysql2', '>= 0.4.4', '< 0.6.0'
+#gem 'pg'
 
 
 
 # gem 'cloudinary'
-gem 'cloudinary', require: false
+# gem 'cloudinary', require: false
+gem 'cloudinary', github: "cloudinary/cloudinary_gem"
+
 gem 'activestorage-cloudinary-service'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
@@ -142,3 +144,7 @@ gem "spree_product_hover_zoom", :github => "shivareddy547/spree_product_hover_zo
 
 # gem 'spree_essential_menus', :path => 'spree_essential_menus'
 # gem 'social-share-button', '~> 0.1.6'
+# gem 'spree_infinite_scroll'
+# gem 'spree_product_assembly', github: 'spree-contrib/spree-product-assembly'
+#
+# gem "asset_sync"

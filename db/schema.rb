@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_08_22_135859) do
+ActiveRecord::Schema.define(version: 2018_08_29_190645) do
 
   create_table "active_storage_attachments", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "name", null: false
@@ -126,6 +126,13 @@ ActiveRecord::Schema.define(version: 2018_08_22_135859) do
     t.datetime "attachment_updated_at"
     t.datetime "created_at"
     t.datetime "updated_at"
+  end
+
+  create_table "spree_assemblies_parts", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.integer "assembly_id", null: false
+    t.integer "part_id", null: false
+    t.integer "count", default: 1, null: false
+    t.boolean "variant_selection_deferred"
   end
 
   create_table "spree_assets", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
@@ -419,6 +426,12 @@ ActiveRecord::Schema.define(version: 2018_08_22_135859) do
     t.index ["user_id", "created_by_id"], name: "index_spree_orders_on_user_id_and_created_by_id"
   end
 
+  create_table "spree_part_line_items", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.integer "line_item_id", null: false
+    t.integer "variant_id", null: false
+    t.integer "quantity", default: 1
+  end
+
   create_table "spree_payment_capture_events", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.decimal "amount", precision: 10, scale: 2, default: "0.0"
     t.integer "payment_id"
@@ -527,6 +540,8 @@ ActiveRecord::Schema.define(version: 2018_08_22_135859) do
     t.string "meta_title"
     t.integer "favorite_users_count", default: 0
     t.string "amazon_id"
+    t.boolean "can_be_part", default: false, null: false
+    t.boolean "individual_sale", default: true, null: false
     t.index ["amazon_id"], name: "index_spree_products_on_amazon_id"
     t.index ["available_on"], name: "index_spree_products_on_available_on"
     t.index ["deleted_at"], name: "index_spree_products_on_deleted_at"
