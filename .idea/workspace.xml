@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d42ead-0abf-4661-ad96-dcde0c5cecf1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lovcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lovcart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-58d5a8eadad22615aba162918b6ce8de.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-58d5a8eadad22615aba162918b6ce8de.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/spree/backend/all-200de1b9798f767a1bf55e1d7ed0719d786f84b7eaee5a98289516da964a1e5d.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/spree/backend/all-200de1b9798f767a1bf55e1d7ed0719d786f84b7eaee5a98289516da964a1e5d.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-51978ae29bfa86269671aea59f6f951b450e9504d6c57f0297219b00ff6eb47d.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-51978ae29bfa86269671aea59f6f951b450e9504d6c57f0297219b00ff6eb47d.css.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-bf4e3dc8d0983fb4b61ab331fa6f16e6e0ba6d8e4ac953cfed29ae2038d1de2e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-bf4e3dc8d0983fb4b61ab331fa6f16e6e0ba6d8e4ac953cfed29ae2038d1de2e.js.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-ee82504b2a7d7421d31dd3f18f894a030824f83bd777d9ad56d2820bd39ef0e2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-ee82504b2a7d7421d31dd3f18f894a030824f83bd777d9ad56d2820bd39ef0e2.css.gz" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -140,17 +125,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="148" column="1" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
+            <state relative-caret-position="186">
+              <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="155">
+              <caret line="68" column="3" lean-forward="true" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -160,7 +145,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/storage.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -266,8 +251,8 @@
         <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/home/index.html.erb" />
         <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/shared/_slider1.html.erb" />
         <option value="$PROJECT_DIR$/public/vinsol_spree_themes/theme-OnlineStore-3-3-bump/views/spree/layouts/spree_application.html.erb" />
-        <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/environments/development.rb" />
       </list>
     </option>
   </component>
@@ -424,18 +409,17 @@
       <workItem from="1535517038693" duration="896000" />
       <workItem from="1535555255433" duration="12748000" />
       <workItem from="1535637023994" duration="720000" />
-      <workItem from="1535721405022" duration="11107000" />
+      <workItem from="1535721405022" duration="11803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370374000" />
+    <option name="totallyTimeSpent" value="371070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -448,7 +432,7 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49401435" visible="true" weight="0.49019608" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49401435" visible="true" weight="0.49019608" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5051876" side_tool="true" weight="0.498366" />
       <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49481246" weight="0.498366" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -741,25 +725,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="148" column="1" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
+        <state relative-caret-position="186">
+          <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+    <entry file="file://$PROJECT_DIR$/config/storage.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/storage.yml">
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="155">
+          <caret line="68" column="3" lean-forward="true" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
         </state>
       </provider>
     </entry>

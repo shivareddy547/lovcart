@@ -65,5 +65,5 @@ Rails.application.configure do
   config.action_controller.perform_caching = true
   config.cache_store = :dalli_store
 
-  config.action_controller.asset_host = "cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart"
+  # config.action_controller.asset_host = "cloudinary://429837329638351:MKx_1N97Lctgwnc0MwxFs_597BE@lovecart"
 end
