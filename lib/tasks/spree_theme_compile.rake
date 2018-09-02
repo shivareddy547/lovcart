@@ -1,3 +1,4 @@
+
 namespace :spree_theme_compile do
   desc "TODO"
   task task1: :environment do
