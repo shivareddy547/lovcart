@@ -10,7 +10,6 @@ gem 'rails', '~> 5.2.0'
 gem 'pg'
 
 
-
 # gem 'cloudinary'
 gem 'cloudinary', require: false
 gem 'activestorage-cloudinary-service'
