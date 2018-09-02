@@ -5,9 +5,10 @@ namespace :spree_theme_compile do
     if Object.const_defined?(Spree::Theme.to_s)
     theme=Spree::Theme.first
     theme.draft
+    theme.compile
     theme.assets_precompile
     # theme.update_cache_timestamp
-    theme.compile
+
     theme.publish
 
     # theme.remove_current_theme
