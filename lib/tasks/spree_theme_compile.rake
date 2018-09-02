@@ -6,16 +6,16 @@ namespace :spree_theme_compile do
     theme=Spree::Theme.first
     theme.draft
     theme.assets_precompile
-    theme.update_cache_timestamp
+    # theme.update_cache_timestamp
     theme.compile
+    theme.publish
+
     # theme.remove_current_theme
-    theme.apply_new_theme
+    # theme.apply_new_theme
     # theme.remove_cache
     # theme.update_cache_timestamp
     # theme.publish
-p 1111111111111111111111111111111111111111111111
-    else
-      p 2222222222222222222222222222222222222
+
     end
 
 
