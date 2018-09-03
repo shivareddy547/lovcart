@@ -70,6 +70,16 @@ GIT
       spree_core (>= 3.1.0, < 4.0)
 
 GIT
+  remote: https://github.com/shivareddy547/spree_themes.git
+  revision: bc37dabd61a8e1869a87f5bbaeb8ac7756eabae7
+  specs:
+    vinsol_spree_themes (0.0.1)
+      rubyzip (~> 1.2.1)
+      spree_core (>= 3.2.0, < 4.0)
+      sprockets-helpers (~> 1.2.1)
+      state_machine (~> 1.2.0)
+
+GIT
   remote: https://github.com/spree-contrib/spree_analytics_trackers.git
   revision: c891a9f51cb13d9316bb1197d9c2f8034aab6cf1
   specs:
@@ -100,17 +110,6 @@ GIT
   specs:
     spree_reffiliate (3.2.0.alpha)
       spree_core (>= 3.2.0, < 4.0.0)
-
-GIT
-  remote: https://github.com/vinsol-spree-contrib/spree_themes.git
-  revision: 1af86f015f90280c78b98db85a104b4f753935f3
-  branch: master
-  specs:
-    vinsol_spree_themes (0.0.1)
-      rubyzip (~> 1.2.1)
-      spree_core (>= 3.2.0, < 4.0)
-      sprockets-helpers (~> 1.2.1)
-      state_machine (~> 1.2.0)
 
 GEM
   remote: https://rubygems.org/
