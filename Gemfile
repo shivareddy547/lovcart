@@ -9,7 +9,6 @@ gem 'rails', '~> 5.2.0'
 # gem 'mysql2', '>= 0.4.4', '< 0.6.0'
 gem 'pg'
 
-
 # gem 'cloudinary'
 gem 'cloudinary', require: false
 gem 'activestorage-cloudinary-service'
