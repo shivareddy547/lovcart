@@ -71,7 +71,7 @@ GIT
 
 GIT
   remote: https://github.com/shivareddy547/spree_themes.git
-  revision: bc37dabd61a8e1869a87f5bbaeb8ac7756eabae7
+  revision: 6feb20927f2900c3e82084ddfd80a331ccd9d94d
   specs:
     vinsol_spree_themes (0.0.1)
       rubyzip (~> 1.2.1)
