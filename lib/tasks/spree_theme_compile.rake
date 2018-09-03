@@ -3,18 +3,13 @@ namespace :spree_theme_compile do
   desc "TODO"
   task task1: :environment do
     if Object.const_defined?(Spree::Theme.to_s)
-    theme=Spree::Theme.first
+    theme=Spree::Theme.find_by_name('theme-OnlineStore-3-3-bump')
     theme.draft
-    theme.assets_precompile
-    theme.update_cache_timestamp
+    theme=Spree::Theme.find_by_name('theme-OnlineStore-3-3-bump')
     theme.compile
+    theme=Spree::Theme.find_by_name('theme-OnlineStore-3-3-bump')
+    theme.publish
 
-
-    # theme.remove_current_theme
-    # theme.apply_new_theme
-    # theme.remove_cache
-    # theme.update_cache_timestamp
-    # theme.publish
 
     end
 
