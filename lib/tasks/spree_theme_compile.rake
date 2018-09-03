@@ -33,7 +33,6 @@ namespace :spree_theme_compile do
 
     source_path = File.join(THEMES_PATH, theme.name)
     FileUtils.ln_sf(source_path, CURRENT_THEME_PATH)
-
     source_path = File.join(CURRENT_THEME_PATH, 'precompiled_assets', '.')
 
     FileUtils.rm_r(PUBLIC_PRECOMPILED_ASSET_PATH) if File.exists?(PUBLIC_PRECOMPILED_ASSET_PATH)
