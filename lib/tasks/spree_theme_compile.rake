@@ -40,7 +40,7 @@ namespace :spree_theme_compile do
     FileUtils.cp_r(source_path, PUBLIC_PRECOMPILED_ASSET_PATH)
 
     AssetsPrecompilerService.new(self).copy_assets
-    theme.publish
+    # theme.publish
 
     # if Object.const_defined?(Spree::Theme.to_s)
     # theme=Spree::Theme.find_by_name('theme-OnlineStore-3-3-bump')
