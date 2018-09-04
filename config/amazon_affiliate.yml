@@ -1,7 +1,7 @@
 ---
 default: &DEFAULT
   :configure:
-    :associate_tag: 'lovcart547-20'
+    :associate_tag: 'lovcart547-21'
     :AWS_access_key_id: 'AKIAJ4MY2YEWVHSUVICQ'
     :AWS_secret_key: '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'
     :country: 'in'
