@@ -6,7 +6,7 @@
 
 
 <% slide_locations.each do |location| %>
-  <% taxon = Spree::Taxon.where(:name=> location.name) %>
+  <% taxon = Spree::Taxon.where(:name=> "#{location.name}") %>
   <% if taxon.present? %>
   <div class="container">
     <div class="page-header">
