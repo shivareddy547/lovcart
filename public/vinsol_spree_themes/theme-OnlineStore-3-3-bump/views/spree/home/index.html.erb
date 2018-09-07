@@ -2,67 +2,50 @@
 <% @body_id = 'home-page' %>
 
 <!--https://bootsnipp.com/snippets/zDQkr-->
+<% slide_locations = Spree::SlideLocation.all %>
 
-<div class="container">
-  <div class="page-header">
-    <h1>Example Page Header</h1>
-  </div>
-  <div class="row">
-    <div class="MultiCarousel" data-items="1,3,4,5" data-slide="3" id="MultiCarousel"  data-interval="1000">
-    <div class="MultiCarousel-inner">
-      <% Spree::Slide.published.order('position ASC').each do |slide| %>
-      <div class="item">
-        <div class="col-xs-12">
-          <div class="card xs-2 shadow-sm">
-            <%= link_to image_tag(main_app.url_for(slide.slide_image), alt: slide.slide_name), url_for(slide.slide_link) rescue nil %>
 
-            <!--            <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_165af6471b0%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_165af6471b0%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.234375%22%20y%3D%22120.3%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" data-holder-rendered="true">-->
-            <div class="card-body">
-              <h3><%= truncate(slide.slide_name.html_safe, length:25) %></h3>
-<!--              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>-->
+<% slide_locations.each do |location| %>
+  <% taxon = Spree::Taxon.where(:permalink=> location.name) %>
+  <% if taxon.present? %>
+  <div class="container">
+    <div class="page-header">
 
-            </div>
-          </div>
-        </div>
-      </div>
-      <%end %>
-
-  </div>
-      <button class="btn btn-primary leftLst"><</button>
-      <button class="btn btn-primary rightLst">></button>
+      <h1><%= link_to "#{taxon.last.name}", seo_url(taxon.last) %></h1>
     </div>
-  </div>
-</div>
-<div class="container">
-  <div class="page-header">
-    <h1>Example Page Headeruuuuuuuuuuuuuuuuuuuuuuuuuuuu</h1>
-  </div>
-  <div class="row">
-    <div class="MultiCarousel" data-items="1,2,3,4,5" data-slide="1" id="MultiCarousel"  data-interval="1000">
-      <div class="MultiCarousel-inner">
-        <% Spree::Slide.published.order('position ASC').each do |slide| %>
-          <div class="item">
-            <div class="col-xs-12">
-              <div class="card xs-2 shadow-sm" style="width: 18rem;">
-                <%= link_to image_tag(main_app.url_for(slide.slide_image), alt: slide.slide_name), url_for(slide.slide_link) rescue nil %>
+    <% if location.slides.published.present? %>
+    <div class="row">
+      <div class="MultiCarousel" data-items="1,3,4,5" data-slide="3" id="MultiCarousel"  data-interval="1000">
+        <div class="MultiCarousel-inner">
+          <% location.slides.published.order('position ASC').each do |slide| %>
+            <div class="item">
+              <div class="col-xs-12">
+                <div class="card xs-2 shadow-sm">
+                  <%= link_to image_tag(main_app.url_for(slide.slide_image_group), alt: slide.slide_name), url_for(slide.slide_link) rescue nil %>
 
-                <!--            <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_165af6471b0%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_165af6471b0%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.234375%22%20y%3D%22120.3%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" data-holder-rendered="true">-->
-                <div class="card-body" style="width:200px">
-                  <h3><%= truncate(slide.slide_name.html_safe, length:25) %></h3>
-                  <!--              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>-->
+                  <!--            <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_165af6471b0%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_165af6471b0%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.234375%22%20y%3D%22120.3%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" data-holder-rendered="true">-->
+                  <div class="card-body">
+                    <h3><%= truncate(slide.slide_name.html_safe, length:25) %></h3>
+                    <!--              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>-->
 
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        <%end %>
+          <%end %>
 
+        </div>
+        <button class="btn btn-primary leftLst"><</button>
+        <button class="btn btn-primary rightLst">></button>
       </div>
-      <button class="btn btn-primary leftLst"><</button>
-      <button class="btn btn-primary rightLst">></button>
     </div>
+      <% end  %>
   </div>
-</div>
+<%end %>
+<% end %>
+
+
+
 <style>
   .MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
   .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
