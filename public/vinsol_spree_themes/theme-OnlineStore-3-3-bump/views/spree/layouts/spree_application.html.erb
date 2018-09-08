@@ -35,7 +35,7 @@
       <%= flash_messages %>
       <%= yield %>
       <%#= render partial: 'spree/shared/slider', locals: { slider: Spree::Slide.published, cid: 'home', interval: false } %>
-
+      <% if !(controller.controller_name == "home" && controller.action_name == "index") %>
       <div class="wrapper">
         <ul class="side_share">
           <li class="facebook">
@@ -73,6 +73,7 @@ facebook</a></p>
           </li>
         </ul>
       </div>
+        <% end  %>
     </div>
 
     <%= yield :templates %>
