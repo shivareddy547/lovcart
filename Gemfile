@@ -136,7 +136,7 @@ gem 'spree_favorite_products',:github=>'shivareddy547/spree_favorite_products'
 #
 # gem 'spree_slider', github: 'spree-contrib/spree_slider'
 gem 'spree_slider', :github => "shivareddy547/spree_slider"
-
+# gem 'spree_slider', :path => "spree_slider"
 # gem 'dynamic_dropdown_menu' , :path=>"dynamic_dropdown_menu"
 
 gem "spree_product_hover_zoom", :github => "shivareddy547/spree_product_hover_zoom"
